@@ -1,0 +1,310 @@
+[
+  {
+    "style": "normal",
+    "_key": "bca913c2f01c",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "Hey everyone! HYTE welcomed us again to get back down to the basics, but this time we’re going to talk about liquid cooling basics. More specifically: plumbing.",
+        "_key": "9b7f6dfd666f0"
+      }
+    ],
+    "_type": "block"
+  },
+  {
+    "_type": "block",
+    "style": "normal",
+    "_key": "3cd4787ab900",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "In this article, we’ll be talking about the essentials when it comes to the actual plumbing aspect of a system - what should be included, what things to look out for, and what steps you will need to take to avoid issues (like a leak) once the system is all set up.",
+        "_key": "1fc3f7a3e7df0"
+      }
+    ]
+  },
+  {
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "\n",
+        "_key": "2a3f552ad1470"
+      }
+    ],
+    "_type": "block",
+    "style": "normal",
+    "_key": "0cf2c2e5a7ca"
+  },
+  {
+    "_type": "image",
+    "_key": "a8018be47b33",
+    "asset": {
+      "_ref": "image-863a0026b27a89794b7b7b97d8c07c09bd2d1976-1600x1067-jpg",
+      "_type": "reference"
+    }
+  },
+  {
+    "markDefs": [],
+    "children": [
+      {
+        "text": "What You’ll Need",
+        "_key": "6f94fd14dae40",
+        "_type": "span",
+        "marks": []
+      }
+    ],
+    "_type": "block",
+    "style": "h2",
+    "_key": "eb91e05ee56b"
+  },
+  {
+    "style": "normal",
+    "_key": "7af3645cdc79",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "As liquid cooling has become more popular, there have become a lot more options for us on the market to choose from. The aesthetics and the price points vary from brand to brand, but the biggest thing we prioritize is functionality.",
+        "_key": "666e3929f80a0"
+      }
+    ],
+    "_type": "block"
+  },
+  {
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "Luckily, we’ve had opportunities to work with many different brands so we’ve seen all sorts of solutions for securing tubing. Additionally, one of the most frequent topics we’re asked about is fittings.",
+        "_key": "227170966a5f0"
+      }
+    ],
+    "_type": "block",
+    "style": "normal",
+    "_key": "abe2c4be318d",
+    "markDefs": []
+  },
+  {
+    "style": "normal",
+    "_key": "12ecb3f1ea25",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "One of our favorite fittings is the ",
+        "_key": "e213c889763e0"
+      },
+      {
+        "_type": "span",
+        "marks": ["em"],
+        "text": "compression style fitting",
+        "_key": "e213c889763e1"
+      },
+      {
+        "_type": "span",
+        "marks": [],
+        "text": " that utilizes 3 separate o-rings. Obviously, more o-rings help, but we’ve enjoyed fittings more that have a secondary material, like a Teflon-made chamfer ring that focuses more on securing the rigidity of the tubing, versus sealing the line itself.",
+        "_key": "e213c889763e2"
+      }
+    ],
+    "_type": "block"
+  },
+  {
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "Another fitting option is the hybrid fitting. They feature secondary materials for tubing securement, which have really stood the test of time, as we have shipped fully built systems all across the country.",
+        "_key": "07c613920f720"
+      }
+    ],
+    "_type": "block",
+    "style": "normal",
+    "_key": "51b4b2afd828"
+  },
+  {
+    "style": "normal",
+    "_key": "953474ca2718",
+    "markDefs": [],
+    "children": [
+      {
+        "marks": [],
+        "text": "When it comes to tubing, the choice of the fitting isn’t as necessary for the sole reason that soft tubing is malleable. This allows barb fittings to work perfectly without using a securing clamp or zip tie. That being said, we’d still recommend going the compression route here too. With some soft tubing sleeves, those compression fittings look really nice at the ends!",
+        "_key": "90b599ccd9fd0",
+        "_type": "span"
+      }
+    ],
+    "_type": "block"
+  },
+  {
+    "_type": "block",
+    "style": "normal",
+    "_key": "0d4d7595964d",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "",
+        "_key": "592c05c38b6d"
+      }
+    ]
+  },
+  {
+    "_type": "image",
+    "_key": "11797337bb58",
+    "asset": {
+      "_ref": "image-b58d037e3a0491318e707c8ca826390c859a1c43-1500x844-jpg",
+      "_type": "reference"
+    }
+  },
+  {
+    "style": "h2",
+    "_key": "0f2c9fa2fe1f",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "The Science",
+        "_key": "c22476bd4f490"
+      }
+    ],
+    "_type": "block"
+  },
+  {
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "The largest, and most overlooked, factor that contributes to a water cooled PC build is gravity.",
+        "_key": "d3537206311e0"
+      }
+    ],
+    "_type": "block",
+    "style": "normal",
+    "_key": "febb62897555"
+  },
+  {
+    "_key": "36ff60688617",
+    "markDefs": [],
+    "children": [
+      {
+        "_key": "8bc601f269170",
+        "_type": "span",
+        "marks": [],
+        "text": "Gravity will first come into play when planning a draining system for your build. Draining systems are important in water cooling because it provides an easy way to perform maintenance on your build, therefore improving the longevity of the PC and, separately, the hardware."
+      }
+    ],
+    "_type": "block",
+    "style": "normal"
+  },
+  {
+    "_key": "ab4cd5895772",
+    "markDefs": [],
+    "children": [
+      {
+        "text": "You will want to utilize gravity to your benefit and plan to have the drain valve at the lowest point of your loop, with a vent plug at the highest point of your loop. This will allow the combination of the exchange of fluid and air within the loop and some gravity, therefore allowing your system to be a dream for maintenance.",
+        "_key": "ddc4f74268dc0",
+        "_type": "span",
+        "marks": []
+      }
+    ],
+    "_type": "block",
+    "style": "normal"
+  },
+  {
+    "_type": "block",
+    "style": "h2",
+    "_key": "3684b335e8ec",
+    "markDefs": [],
+    "children": [
+      {
+        "text": "Getting it Running",
+        "_key": "5ad6749147840",
+        "_type": "span",
+        "marks": []
+      }
+    ]
+  },
+  {
+    "children": [
+      {
+        "_key": "61ae93b64d0b0",
+        "_type": "span",
+        "marks": [],
+        "text": "In addition to the draining system, another aspect of your loop that utilizes gravity is the plumbing of your pump. The types of pumps that are used with water cooling loops should not be run dry, so if your setup calls for a separate pump and reservoir, you’ll have to make sure that the reservoir can still prime the pump without assistance from you."
+      }
+    ],
+    "_type": "block",
+    "style": "normal",
+    "_key": "8a6ad85f02a3",
+    "markDefs": []
+  },
+  {
+    "_key": "d2e13cbfdf08",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "For example, we have used secondary pumps in line with other water cooling components in a high restriction layout. We make sure not to power that pump until the entire loop is adequately filled, in the case that the second pump isn’t primed correctly.",
+        "_key": "aefc9ce5ee250"
+      }
+    ],
+    "_type": "block",
+    "style": "normal"
+  },
+  {
+    "_key": "fde547c90923",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "Running a pump dry can very quickly degrade the life and condition of your pump so planning your plumbing layout like this can reduce the chances of accidentally ruining your pump.",
+        "_key": "87d686c55a440"
+      }
+    ],
+    "_type": "block",
+    "style": "normal"
+  },
+  {
+    "style": "normal",
+    "_key": "ee55fd7ac781",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "When it’s time to fill your system, power up the pump by itself! We have all seen the videos of people powering up the entire system in the initial fill-up, right? Well, don’t be that person! We understand that air pump gauge combos have become more prevalent, but it’s simply unsafe to perform an initial fill while the entire system is powered up.",
+        "_key": "82c8a18134bc0"
+      }
+    ],
+    "_type": "block"
+  },
+  {
+    "style": "normal",
+    "_key": "bdac729134ca",
+    "markDefs": [],
+    "children": [
+      {
+        "_type": "span",
+        "marks": [],
+        "text": "Please make sure to check back in the future for articles detailing other water cooling basics! Until next time!",
+        "_key": "6b9c828d66660"
+      }
+    ],
+    "_type": "block"
+  }
+]

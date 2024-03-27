@@ -1,0 +1,57 @@
+# curl -v -X POST "https://api-m.sandbox.paypal.com/v1/oauth2/token"    -u "AQ0amo_2NrJeCRVb-RAUAUx2ofcs-4iNet98nRVlC4_x1dZAP3FD4h49dZCpT3J4Ypwlwvxv1KDwpLkX:EL8ls3aZSOnyBemhJsp8i6823Zywf3bCxWdACDBCl0-87TYLKjC7XK04j9sKmXh2etMN2hxFdiqVuO-c"    -H "Content-Type: application/x-www-form-urlencoded"    -d "grant_type=client_credentials"
+POST https://api-m.paypal.com/v1/oauth2/token
+Authorization: Basic AfYJ1hRAmDFx1B7JgrddyjjN36-KjhfuQ1EuzA41Lew6HE8crkyDwL33POGr3IJ5UQlRB_SurW_d8igS EB6QIT9qYzKqkUIMeofh_WqwE22VLOecrmHU0hqemBxZTtJuTXxd83hvBYn7BdXpzlZZqO4Eah0Aegd9
+Content-Type: application/x-www-form-urlencoded
+
+grant_type=client_credentials
+
+<> 2023-05-15T103116.200.json
+<> 2023-05-15T092503.200.json
+<> 2023-05-13T062220.200.json
+<> 2023-05-13T062057.401.json
+<> 2023-05-13T062054.401.json
+<> 2023-05-13T061853.401.json
+<> 2023-05-13T061845.401.json
+<> 2023-05-13T060728.200.json
+
+###
+
+# curl -v -X GET https://api-m.sandbox.paypal.com/v2/checkout/orders/5O190127TN364715T
+#-H 'Authorization: Bearer <access_token>
+GET https://api-m.paypal.com/v2/checkout/orders/4G012914322409344
+Authorization: Basic AfYJ1hRAmDFx1B7JgrddyjjN36-KjhfuQ1EuzA41Lew6HE8crkyDwL33POGr3IJ5UQlRB_SurW_d8igS EB6QIT9qYzKqkUIMeofh_WqwE22VLOecrmHU0hqemBxZTtJuTXxd83hvBYn7BdXpzlZZqO4Eah0Aegd9
+# Authorization: Bearer A21AANWbD0Dudf1G97d8qELuNX2Usg8G9G1IFuqA8Uy_XQckShsyq9iiluR6OXo24IUN1v9WG76vk2ak-KM7sOOo2R38-ildA
+
+<> 2023-05-15T092545.200.json
+<> 2023-05-13T062858.200.json
+<> 2023-05-13T062611.404.json
+<> 2023-05-13T062353.404.json
+<> 2023-05-13T062305.404.json
+<> 2023-05-13T062233.404.json
+<> 2023-05-13T062047.401.json
+<> 2023-05-13T061830.401.json
+<> 2023-05-13T061138.404.json
+<> 2023-05-13T061009.404.json
+<> 2023-05-13T060947.404.json
+<> 2023-05-13T060940.401.json
+
+###
+
+# curl -v -X GET https://api-m.paypal.com/v1/payments/payment/PAYMENT_ID
+#-H "Content-Type:application/json"
+#-H "Authorization: Bearer ACCESS_TOKEN"
+GET https://api-m.paypal.com/v2/payments/captures/4GG46972EF217115K
+Authorization: Basic AfYJ1hRAmDFx1B7JgrddyjjN36-KjhfuQ1EuzA41Lew6HE8crkyDwL33POGr3IJ5UQlRB_SurW_d8igS EB6QIT9qYzKqkUIMeofh_WqwE22VLOecrmHU0hqemBxZTtJuTXxd83hvBYn7BdXpzlZZqO4Eah0Aegd9
+#  Authorization: Bearer A21AANWbD0Dudf1G97d8qELuNX2Usg8G9G1IFuqA8Uy_XQckShsyq9iiluR6OXo24IUN1v9WG76vk2ak-KM7sOOo2R38-ildA
+
+<> 2023-05-15T103143.200.json
+<> 2023-05-15T101417.200.json
+<> 2023-05-15T092615.200.json
+<> 2023-05-15T092558.401.json
+<> 2023-05-13T062746.200.json
+<> 2023-05-13T062500.404.json
+<> 2023-05-13T062446.401.json
+<> 2023-05-13T061416.401.json
+
+###
+

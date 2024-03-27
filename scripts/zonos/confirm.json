@@ -1,0 +1,48 @@
+{
+  "id": "pi_3OeBU6GvtwQIF0EV1o9B2YVM",
+  "object": "payment_intent",
+  "amount": 2607,
+  "amount_details": {
+    "tip": {}
+  },
+  "automatic_payment_methods": {
+    "allow_redirects": "always",
+    "enabled": true
+  },
+  "canceled_at": null,
+  "cancellation_reason": null,
+  "capture_method": "automatic",
+  "client_secret": "pi_3OeBU6GvtwQIF0EV1o9B2YVM_secret_Dk7YvwFmLVttsJkgVe9YErw5o",
+  "confirmation_method": "automatic",
+  "created": 1706598714,
+  "currency": "usd",
+  "description": null,
+  "last_payment_error": null,
+  "livemode": true,
+  "next_action": null,
+  "payment_method": "pm_1OeBVJGvtwQIF0EVO0XdzDsb",
+  "payment_method_configuration_details": {
+    "id": "pmc_1OP9JQ2fFlZAyWMTLh2mVjs7",
+    "parent": "pmc_1OC9bgGvtwQIF0EV8qmqM3Nf"
+  },
+  "payment_method_types": ["card", "link"],
+  "processing": null,
+  "receipt_email": "k445566778899k@gmail.com",
+  "setup_future_usage": null,
+  "shipping": {
+    "address": {
+      "city": "新莊區",
+      "country": "TW",
+      "line1": "新北市新莊區幸福路716號2樓",
+      "line2": null,
+      "postal_code": "24242",
+      "state": "New Taipei City"
+    },
+    "carrier": null,
+    "name": "漢庭 陳",
+    "phone": "+886983168969",
+    "tracking_number": null
+  },
+  "source": null,
+  "status": "succeeded"
+}

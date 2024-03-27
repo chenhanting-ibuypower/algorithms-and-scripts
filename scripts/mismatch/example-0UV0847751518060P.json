@@ -1,0 +1,332 @@
+{
+  "requestPayload": {
+    "customer_id": 0,
+    "billing_address": {
+      "city": "Atlanta",
+      "country": "United States",
+      "country_iso2": "US",
+      "street_1": "2612 Brookwood Drive NE",
+      "state": "GA",
+      "zip": "30305",
+      "first_name": "Katherine",
+      "last_name": "Denton",
+      "email": "notnedk@gmail.com",
+      "phone": "4789558965"
+    },
+    "payment_method": "PayPal",
+    "total_ex_tax": 366.98,
+    "total_inc_tax": 402.83,
+    "discount_amount": 0,
+    "shipping_cost_ex_tax": 0,
+    "shipping_cost_inc_tax": 0,
+    "shipping_addresses": [
+      {
+        "city": "Atlanta",
+        "country": "United States",
+        "country_iso2": "US",
+        "street_1": "2612 Brookwood Drive NE",
+        "state": "GA",
+        "zip": "30305",
+        "first_name": "Katherine",
+        "last_name": "Denton",
+        "email": "notnedk@gmail.com",
+        "phone": "4789558965",
+        "shipping_method": "UPS® Ground"
+      }
+    ],
+    "products": [
+      {
+        "sku": "CS-HYTE-Y70-WW-L",
+        "name": "CS-HYTE-Y70-WW-L",
+        "quantity": 1,
+        "price_ex_tax": 359.99,
+        "price_inc_tax": 359.99
+      }
+    ]
+  },
+  "paypalTransaction": {
+    "id": "0UV0847751518060P",
+    "amount": {
+      "currency_code": "USD",
+      "value": "402.83"
+    },
+    "final_capture": true,
+    "seller_protection": {
+      "status": "ELIGIBLE",
+      "dispute_categories": ["ITEM_NOT_RECEIVED", "UNAUTHORIZED_TRANSACTION"]
+    },
+    "seller_receivable_breakdown": {
+      "gross_amount": {
+        "currency_code": "USD",
+        "value": "402.83"
+      },
+      "paypal_fee": {
+        "currency_code": "USD",
+        "value": "11.98"
+      },
+      "net_amount": {
+        "currency_code": "USD",
+        "value": "390.85"
+      }
+    },
+    "status": "REFUNDED",
+    "supplementary_data": {
+      "related_ids": {
+        "order_id": "4CP16706H8696122U"
+      }
+    },
+    "payee": {
+      "email_address": "accounts.receivable@ibuypower.com",
+      "merchant_id": "7YHDZ62G9BBAC"
+    },
+    "create_time": "2023-12-14T19:51:12Z",
+    "update_time": "2024-01-17T00:57:18Z",
+    "links": [
+      {
+        "href": "https://api.paypal.com/v2/payments/captures/0UV0847751518060P",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.paypal.com/v2/payments/captures/0UV0847751518060P/refund",
+        "rel": "refund",
+        "method": "POST"
+      },
+      {
+        "href": "https://api.paypal.com/v2/checkout/orders/4CP16706H8696122U",
+        "rel": "up",
+        "method": "GET"
+      }
+    ]
+  },
+  "order": {
+    "id": "4CP16706H8696122U",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "payment_source": {
+      "paypal": {
+        "email_address": "notnedk@gmail.com",
+        "account_id": "FWKXG5NVNJU9Y",
+        "account_status": "VERIFIED",
+        "name": {
+          "given_name": "Katherine",
+          "surname": "Denton"
+        },
+        "phone_number": {
+          "national_number": "4789558965"
+        },
+        "address": {
+          "country_code": "US"
+        }
+      }
+    },
+    "purchase_units": [
+      {
+        "reference_id": "default",
+        "amount": {
+          "currency_code": "USD",
+          "value": "402.83",
+          "breakdown": {
+            "item_total": {
+              "currency_code": "USD",
+              "value": "402.83"
+            },
+            "shipping": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "handling": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "insurance": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "shipping_discount": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "discount": {
+              "currency_code": "USD",
+              "value": "0.00"
+            }
+          }
+        },
+        "payee": {
+          "email_address": "accounts.receivable@ibuypower.com",
+          "merchant_id": "7YHDZ62G9BBAC"
+        },
+        "description": "-, 30305, UPS® Ground, 669f3638-e6eb-4ee7-84cb-54aed3520835",
+        "invoice_id": "CaptureId: 0UV0847751518060P",
+        "soft_descriptor": "PAYPAL *AMERICANFUT",
+        "items": [
+          {
+            "name": "CS-HYTE-Y70-WW-L",
+            "unit_amount": {
+              "currency_code": "USD",
+              "value": "359.99"
+            },
+            "tax": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "quantity": "1"
+          }
+        ],
+        "shipping": {
+          "name": {
+            "full_name": "Kate Denton"
+          },
+          "address": {
+            "address_line_1": "2612 Brookwood Drive NE",
+            "admin_area_2": "Atlanta",
+            "admin_area_1": "GA",
+            "postal_code": "30305",
+            "country_code": "US"
+          }
+        },
+        "payments": {
+          "captures": [
+            {
+              "id": "0UV0847751518060P",
+              "status": "REFUNDED",
+              "amount": {
+                "currency_code": "USD",
+                "value": "402.83"
+              },
+              "final_capture": true,
+              "seller_protection": {
+                "status": "ELIGIBLE",
+                "dispute_categories": [
+                  "ITEM_NOT_RECEIVED",
+                  "UNAUTHORIZED_TRANSACTION"
+                ]
+              },
+              "seller_receivable_breakdown": {
+                "gross_amount": {
+                  "currency_code": "USD",
+                  "value": "402.83"
+                },
+                "paypal_fee": {
+                  "currency_code": "USD",
+                  "value": "11.98"
+                },
+                "net_amount": {
+                  "currency_code": "USD",
+                  "value": "390.85"
+                }
+              },
+              "links": [
+                {
+                  "href": "https://api.paypal.com/v2/payments/captures/0UV0847751518060P",
+                  "rel": "self",
+                  "method": "GET"
+                },
+                {
+                  "href": "https://api.paypal.com/v2/payments/captures/0UV0847751518060P/refund",
+                  "rel": "refund",
+                  "method": "POST"
+                },
+                {
+                  "href": "https://api.paypal.com/v2/checkout/orders/4CP16706H8696122U",
+                  "rel": "up",
+                  "method": "GET"
+                }
+              ],
+              "create_time": "2023-12-14T19:51:12Z",
+              "update_time": "2024-01-17T00:57:18Z"
+            }
+          ],
+          "refunds": [
+            {
+              "id": "6YS62794KD1282747",
+              "amount": {
+                "currency_code": "USD",
+                "value": "402.83"
+              },
+              "note_to_payer": "Overcharge $Portal.Executes.Internals.Models.Payments.PaypalResult.Amount.",
+              "seller_payable_breakdown": {
+                "gross_amount": {
+                  "currency_code": "USD",
+                  "value": "402.83"
+                },
+                "paypal_fee": {
+                  "currency_code": "USD",
+                  "value": "0.00"
+                },
+                "platform_fees": [
+                  {
+                    "amount": {
+                      "currency_code": "USD",
+                      "value": "0.00"
+                    }
+                  }
+                ],
+                "net_amount": {
+                  "currency_code": "USD",
+                  "value": "402.83"
+                },
+                "total_refunded_amount": {
+                  "currency_code": "USD",
+                  "value": "402.83"
+                }
+              },
+              "invoice_id": "CaptureId: 0UV0847751518060P",
+              "status": "COMPLETED",
+              "links": [
+                {
+                  "href": "https://api.paypal.com/v2/payments/refunds/6YS62794KD1282747",
+                  "rel": "self",
+                  "method": "GET"
+                },
+                {
+                  "href": "https://api.paypal.com/v2/payments/captures/0UV0847751518060P",
+                  "rel": "up",
+                  "method": "GET"
+                }
+              ],
+              "create_time": "2024-01-16T16:57:18-08:00",
+              "update_time": "2024-01-16T16:57:18-08:00"
+            }
+          ]
+        }
+      }
+    ],
+    "payer": {
+      "name": {
+        "given_name": "Katherine",
+        "surname": "Denton"
+      },
+      "email_address": "notnedk@gmail.com",
+      "payer_id": "FWKXG5NVNJU9Y",
+      "phone": {
+        "phone_number": {
+          "national_number": "4789558965"
+        }
+      },
+      "address": {
+        "country_code": "US"
+      }
+    },
+    "update_time": "2024-01-17T00:57:18Z",
+    "links": [
+      {
+        "href": "https://api.paypal.com/v2/checkout/orders/4CP16706H8696122U",
+        "rel": "self",
+        "method": "GET"
+      }
+    ]
+  },
+  "taxRule": {
+    "ShortState": "GA",
+    "Cities": ["ATLANTA"],
+    "CityCode": 0,
+    "TaxList": [],
+    "Success": true,
+    "Tax": 0.089,
+    "OriginalTax": 0
+  },
+  "refunded": true,
+  "transactionId": "0UV0847751518060P"
+}

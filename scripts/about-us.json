@@ -1,0 +1,2673 @@
+[
+  {
+    "a": 1,
+    "b": 2,
+    "c": 3,
+    "content": [
+      {
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "About Us",
+            "_key": "35783d4835d30"
+          }
+        ],
+        "_type": "block",
+        "style": "h1",
+        "_key": "eaa08d69272b"
+      },
+      {
+        "_key": "98af1fd61d49",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "marks": ["strong"],
+            "text": "HYTE: Experience Play.",
+            "_key": "d08bd54867930"
+          }
+        ],
+        "_type": "block",
+        "style": "normal"
+      },
+      {
+        "_type": "block",
+        "style": "normal",
+        "_key": "4095316e2176",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "Play is the heart and soul of PC hardware innovation—from launching performance to new heights to delivering exciting new experiences on screen. But those experiences don't just happen. YOU make them happen. Why not make the PC building adventure just as fun?",
+            "_key": "abe3fd5cfa3e0"
+          }
+        ]
+      },
+      {
+        "markDefs": [],
+        "children": [
+          {
+            "marks": [],
+            "text": "At HYTE, we push the envelope when it comes to your PC experience. Our goal is to make our products effortlessly interactive, in ways that will change the way you look at building, gaming, and everything else you do with your tech. But we don't stop there; why force a specific \"gamer\" or \"professional\" style when your PC is as powerful and unique as you are? That's why we're committed to creating products that have artistic form and expert function, always keeping an eye out for first-time builders and enthusiasts alike.",
+            "_key": "c1a9cfe0739a0",
+            "_type": "span"
+          }
+        ],
+        "_type": "block",
+        "style": "normal",
+        "_key": "3f3dd17b14e7"
+      },
+      {
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "Play shouldn't only happen once you press the power button. After all, the journey is half the fun. We hope you join us on our next adventure!",
+            "_key": "ad6500129d610"
+          }
+        ],
+        "_type": "block",
+        "style": "normal",
+        "_key": "b8bffa08ff7d"
+      },
+      {
+        "children": [
+          {
+            "_type": "span",
+            "marks": [],
+            "text": "HYTE is the sister brand of ",
+            "_key": "c5d35d2145800"
+          },
+          {
+            "_type": "span",
+            "marks": ["592ff2b18e60"],
+            "text": "iBUYPOWER",
+            "_key": "c5d35d2145801"
+          },
+          {
+            "_type": "span",
+            "marks": [],
+            "text": ".",
+            "_key": "c5d35d2145802"
+          }
+        ],
+        "_type": "block",
+        "style": "normal",
+        "_key": "9912fdfe6fc5",
+        "markDefs": [
+          {
+            "_type": "link",
+            "href": "https://www.ibuypower.com/",
+            "_key": "592ff2b18e60"
+          }
+        ]
+      }
+    ],
+    "contentGlobal": {
+      "enUS": [
+        {
+          "_type": "block",
+          "style": "h1",
+          "_key": "eaa08d69272b",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "About Us",
+              "_key": "35783d4835d30"
+            }
+          ]
+        },
+        {
+          "style": "normal",
+          "_key": "98af1fd61d49",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "HYTE: Experience Play.",
+              "_key": "d08bd54867930"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "style": "normal",
+          "_key": "4095316e2176",
+          "markDefs": [],
+          "children": [
+            {
+              "marks": [],
+              "text": "Play is the heart and soul of PC hardware innovation—from launching performance to new heights to delivering exciting new experiences on screen. But those experiences don't just happen. YOU make them happen. Why not make the PC building adventure just as fun?",
+              "_key": "abe3fd5cfa3e0",
+              "_type": "span"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "children": [
+            {
+              "text": "At HYTE, we push the envelope when it comes to your PC experience. Our goal is to make our products effortlessly interactive, in ways that will change the way you look at building, gaming, and everything else you do with your tech. But we don't stop there; why force a specific \"gamer\" or \"professional\" style when your PC is as powerful and unique as you are? That's why we're committed to creating products that have artistic form and expert function, always keeping an eye out for first-time builders and enthusiasts alike.",
+              "_key": "c1a9cfe0739a0",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "3f3dd17b14e7",
+          "markDefs": []
+        },
+        {
+          "_type": "block",
+          "style": "normal",
+          "_key": "b8bffa08ff7d",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Play shouldn't only happen once you press the power button. After all, the journey is half the fun. We hope you join us on our next adventure!",
+              "_key": "ad6500129d610"
+            }
+          ]
+        },
+        {
+          "_key": "9912fdfe6fc5",
+          "markDefs": [
+            {
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60",
+              "_type": "link"
+            }
+          ],
+          "children": [
+            {
+              "text": "HYTE is the sister brand of ",
+              "_key": "c5d35d2145800",
+              "_type": "span",
+              "marks": []
+            },
+            {
+              "marks": ["592ff2b18e60"],
+              "text": "iBUYPOWER",
+              "_key": "c5d35d2145801",
+              "_type": "span"
+            },
+            {
+              "_type": "span",
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        }
+      ],
+      "zhTW": [
+        {
+          "_key": "eaa08d69272b",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "關於我們",
+              "_key": "35783d4835d30"
+            }
+          ],
+          "_type": "block",
+          "style": "h1"
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "HYTE：體驗遊戲。",
+              "_key": "d08bd54867930"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "98af1fd61d49"
+        },
+        {
+          "_key": "4095316e2176",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "遊戲是PC硬體創新的核心和靈魂 - 從將性能提升到新的高度，再到在螢幕上提供令人興奮的新體驗。但這些經歷不會隨便發生。你讓它們發生。為什麼不讓PC組裝冒險同樣有趣呢？",
+              "_key": "abe3fd5cfa3e0"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "_key": "3f3dd17b14e7",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "在HYTE，我們挑戰您的PC體驗。我們的目標是使我們的產品毫不費力地具有交互性，從而改變您對建築、遊戲以及您使用技術所做的所有其他事情的看法。但我們並不止於此;當您的 PC 像您一樣強大和獨特時，為什麼要強制使用特定的「遊戲玩家」或「專業」風格？這就是為什麼我們致力於創造具有藝術形式和專業功能的產品，始終關注首次建造者和愛好者。",
+              "_key": "c1a9cfe0739a0"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "播放不應該只在按下電源按鈕后發生。畢竟，旅程是樂趣的一半。我們希望您加入我們的下一次冒險！",
+              "_key": "ad6500129d610"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "b8bffa08ff7d",
+          "markDefs": []
+        },
+        {
+          "_key": "9912fdfe6fc5",
+          "markDefs": [
+            {
+              "_type": "link",
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "HYTE是其姊妹品牌",
+              "_key": "c5d35d2145800"
+            },
+            {
+              "_type": "span",
+              "marks": ["592ff2b18e60"],
+              "text": "愛力",
+              "_key": "c5d35d2145801"
+            },
+            {
+              "_type": "span",
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        }
+      ],
+      "fr": [
+        {
+          "_type": "block",
+          "style": "h1",
+          "_key": "eaa08d69272b",
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "35783d4835d30",
+              "_type": "span",
+              "marks": [],
+              "text": "Qui sommes-nous"
+            }
+          ]
+        },
+        {
+          "style": "normal",
+          "_key": "98af1fd61d49",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "HYTE : Faites l’expérience du jeu.",
+              "_key": "d08bd54867930"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Le jeu est le cœur et l’âme de l’innovation matérielle PC, du lancement des performances vers de nouveaux sommets à la fourniture de nouvelles expériences passionnantes à l’écran. Mais ces expériences ne se produisent pas par hasard. VOUS les réalisez. Pourquoi ne pas rendre l’aventure de construction de PC tout aussi amusante?",
+              "_key": "abe3fd5cfa3e0"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "4095316e2176",
+          "markDefs": []
+        },
+        {
+          "_type": "block",
+          "style": "normal",
+          "_key": "3f3dd17b14e7",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Chez HYTE, nous repoussons les limites de votre expérience PC. Notre objectif est de rendre nos produits interactifs sans effort, de manière à changer votre façon de voir la construction, les jeux et tout ce que vous faites avec votre technologie. Mais nous ne nous arrêtons pas là; Pourquoi imposer un style spécifique « joueur » ou « professionnel » alors que votre PC est aussi puissant et unique que vous ? C’est pourquoi nous nous engageons à créer des produits qui ont une forme artistique et une fonction experte, en gardant toujours un œil sur les constructeurs débutants et les passionnés.",
+              "_key": "c1a9cfe0739a0"
+            }
+          ]
+        },
+        {
+          "style": "normal",
+          "_key": "b8bffa08ff7d",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Le jeu ne devrait pas seulement se produire une fois que vous appuyez sur le bouton d’alimentation. Après tout, le voyage est la moitié du plaisir. Nous espérons que vous vous joindrez à nous pour notre prochaine aventure!",
+              "_key": "ad6500129d610"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "markDefs": [
+            {
+              "_type": "link",
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "HYTE est la marque sœur de ",
+              "_key": "c5d35d2145800"
+            },
+            {
+              "marks": ["592ff2b18e60"],
+              "text": "iBUYPOWER",
+              "_key": "c5d35d2145801",
+              "_type": "span"
+            },
+            {
+              "text": ".",
+              "_key": "c5d35d2145802",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "9912fdfe6fc5"
+        }
+      ],
+      "nl": [
+        {
+          "_key": "eaa08d69272b",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Informatie",
+              "_key": "35783d4835d30"
+            }
+          ],
+          "_type": "block",
+          "style": "h1"
+        },
+        {
+          "style": "normal",
+          "_key": "98af1fd61d49",
+          "markDefs": [],
+          "children": [
+            {
+              "marks": ["strong"],
+              "text": "HYTE: Ervaar Play.",
+              "_key": "d08bd54867930",
+              "_type": "span"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "abe3fd5cfa3e0",
+              "_type": "span",
+              "marks": [],
+              "text": "Spelen is het hart en de ziel van pc-hardware-innovatie, van het lanceren van prestaties tot nieuwe hoogten tot het leveren van spannende nieuwe ervaringen op het scherm. Maar die ervaringen gebeuren niet zomaar. JIJ maakt ze waar. Waarom zou je het pc-bouwavontuur niet net zo leuk maken?"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "4095316e2176"
+        },
+        {
+          "_key": "3f3dd17b14e7",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Bij HYTE verleggen we de grenzen als het gaat om uw pc-ervaring. Ons doel is om onze producten moeiteloos interactief te maken, op manieren die de manier waarop u kijkt naar bouwen, gamen en al het andere dat u met uw technologie doet, zullen veranderen. Maar daar laten we het niet bij; waarom zou u een specifieke \"gamer\" of \"professionele\" stijl forceren als uw pc net zo krachtig en uniek is als u? Daarom zijn we toegewijd aan het creëren van producten met een artistieke vorm en een deskundige functie, waarbij we altijd een oogje in het zeil houden voor zowel beginnende bouwers als liefhebbers.",
+              "_key": "c1a9cfe0739a0"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Spelen zou niet alleen moeten gebeuren als je op de aan / uit-knop drukt. De reis is immers de helft van de pret. We hopen dat je met ons meegaat op ons volgende avontuur!",
+              "_key": "ad6500129d610"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "b8bffa08ff7d"
+        },
+        {
+          "_type": "block",
+          "style": "normal",
+          "_key": "9912fdfe6fc5",
+          "markDefs": [
+            {
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60",
+              "_type": "link"
+            }
+          ],
+          "children": [
+            {
+              "marks": [],
+              "text": "HYTE is het zustermerk van ",
+              "_key": "c5d35d2145800",
+              "_type": "span"
+            },
+            {
+              "text": "iBUYPOWER",
+              "_key": "c5d35d2145801",
+              "_type": "span",
+              "marks": ["592ff2b18e60"]
+            },
+            {
+              "_type": "span",
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802"
+            }
+          ]
+        }
+      ],
+      "de": [
+        {
+          "style": "h1",
+          "_key": "eaa08d69272b",
+          "markDefs": [],
+          "children": [
+            {
+              "marks": [],
+              "text": "Über uns",
+              "_key": "35783d4835d30",
+              "_type": "span"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "HYTE: Erlebe das Spiel.",
+              "_key": "d08bd54867930"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "98af1fd61d49",
+          "markDefs": []
+        },
+        {
+          "style": "normal",
+          "_key": "4095316e2176",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Spielen ist das Herz und die Seele der PC-Hardware-Innovation – von der Einführung neuer Leistungen bis hin zur Bereitstellung aufregender neuer Erlebnisse auf dem Bildschirm. Aber diese Erfahrungen passieren nicht einfach so. DU machst sie möglich. Warum sollte das PC-Bauabenteuer nicht genauso viel Spaß machen?",
+              "_key": "abe3fd5cfa3e0"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "_type": "block",
+          "style": "normal",
+          "_key": "3f3dd17b14e7",
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "c1a9cfe0739a0",
+              "_type": "span",
+              "marks": [],
+              "text": "Bei HYTE gehen wir an die Grenzen, wenn es um Ihr PC-Erlebnis geht. Unser Ziel ist es, unsere Produkte mühelos interaktiv zu gestalten, und zwar auf eine Weise, die die Art und Weise verändert, wie Sie das Bauen, Spielen und alles andere, was Sie mit Ihrer Technologie tun, betrachten. Aber das ist noch nicht alles. Warum sollte man einen bestimmten \"Gamer\"- oder \"professionellen\" Stil erzwingen, wenn Ihr PC so leistungsstark und einzigartig ist wie Sie? Aus diesem Grund sind wir bestrebt, Produkte zu entwickeln, die eine künstlerische Form und eine fachmännische Funktion haben, und haben dabei immer ein Auge auf Anfänger und Enthusiasten gleichermaßen."
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "text": "Das Spielen sollte nicht erst erfolgen, wenn Sie den Netzschalter drücken. Schließlich ist die Reise der halbe Spaß. Wir hoffen, dass du uns bei unserem nächsten Abenteuer begleitest!",
+              "_key": "ad6500129d610",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "b8bffa08ff7d",
+          "markDefs": []
+        },
+        {
+          "markDefs": [
+            {
+              "_type": "link",
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60"
+            }
+          ],
+          "children": [
+            {
+              "text": "HYTE ist die Schwestermarke von ",
+              "_key": "c5d35d2145800",
+              "_type": "span",
+              "marks": []
+            },
+            {
+              "marks": ["592ff2b18e60"],
+              "text": "iBUYPOWER",
+              "_key": "c5d35d2145801",
+              "_type": "span"
+            },
+            {
+              "_type": "span",
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "9912fdfe6fc5"
+        }
+      ],
+      "es": [
+        {
+          "_key": "eaa08d69272b",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Sobre nosotros",
+              "_key": "35783d4835d30"
+            }
+          ],
+          "_type": "block",
+          "style": "h1"
+        },
+        {
+          "_type": "block",
+          "style": "normal",
+          "_key": "98af1fd61d49",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "HYTE: Experimenta el juego.",
+              "_key": "d08bd54867930"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "text": "El juego es el corazón y el alma de la innovación del hardware de PC, desde el lanzamiento del rendimiento a nuevas alturas hasta la entrega de nuevas y emocionantes experiencias en la pantalla. Pero esas experiencias no suceden por sí solas. TÚ haces que sucedan. ¿Por qué no hacer que la aventura de construir PC sea igual de divertida?",
+              "_key": "abe3fd5cfa3e0",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "4095316e2176",
+          "markDefs": []
+        },
+        {
+          "_key": "3f3dd17b14e7",
+          "markDefs": [],
+          "children": [
+            {
+              "text": "En HYTE, empujamos los límites cuando se trata de su experiencia de PC. Nuestro objetivo es hacer que nuestros productos sean interactivos sin esfuerzo, de manera que cambien la forma en que ve la construcción, los juegos y todo lo demás que hace con su tecnología. Pero no nos detenemos ahí; ¿Por qué forzar un estilo específico de \"jugador\" o \"profesional\" cuando su PC es tan potente y único como usted? Es por eso que estamos comprometidos a crear productos que tengan una forma artística y una función experta, siempre atentos a los constructores primerizos y entusiastas por igual.",
+              "_key": "c1a9cfe0739a0",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "_type": "block",
+          "style": "normal",
+          "_key": "b8bffa08ff7d",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "El juego no solo debe ocurrir una vez que presionas el botón de encendido. Después de todo, el viaje es la mitad de la diversión. ¡Esperamos que te unas a nosotros en nuestra próxima aventura!",
+              "_key": "ad6500129d610"
+            }
+          ]
+        },
+        {
+          "_key": "9912fdfe6fc5",
+          "markDefs": [
+            {
+              "_type": "link",
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60"
+            }
+          ],
+          "children": [
+            {
+              "marks": [],
+              "text": "HYTE es la marca hermana de ",
+              "_key": "c5d35d2145800",
+              "_type": "span"
+            },
+            {
+              "_type": "span",
+              "marks": ["592ff2b18e60"],
+              "text": "iBUYPOWER",
+              "_key": "c5d35d2145801"
+            },
+            {
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802",
+              "_type": "span"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        }
+      ],
+      "ja": [
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "我々について",
+              "_key": "35783d4835d30"
+            }
+          ],
+          "_type": "block",
+          "style": "h1",
+          "_key": "eaa08d69272b"
+        },
+        {
+          "_type": "block",
+          "style": "normal",
+          "_key": "98af1fd61d49",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "ハイト:プレイを体験してください。",
+              "_key": "d08bd54867930"
+            }
+          ]
+        },
+        {
+          "style": "normal",
+          "_key": "4095316e2176",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "プレイは、パフォーマンスの新たな高みへの投入から、画面上でのエキサイティングな新しいエクスペリエンスの提供まで、PC ハードウェアの革新の中心です。しかし、それらの経験はただ起こるだけではありません。あなたはそれらを実現させます。PC構築の冒険を同じように楽しくしてみませんか?",
+              "_key": "abe3fd5cfa3e0"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "_key": "3f3dd17b14e7",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "HYTEでは、PCエクスペリエンスに関して限界を押し広げています。私たちの目標は、製品を簡単にインタラクティブにし、構築、ゲーム、その他すべてのテクノロジーの見方を変えることです。しかし、それだけではありません。あなたのPCがあなたと同じくらい強力でユニークであるのに、なぜ特定の「ゲーマー」または「プロフェッショナル」スタイルを強制するのですか?だからこそ、私たちは芸術的な形と専門的な機能を備えた製品の作成に取り組んでおり、常に初めてのビルダーや愛好家にも目を光らせています。",
+              "_key": "c1a9cfe0739a0"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "marks": [],
+              "text": "再生は、電源ボタンを押した後にのみ行われるべきではありません。結局のところ、旅は半分の楽しみです。次の冒険にご参加ください!",
+              "_key": "ad6500129d610",
+              "_type": "span"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "b8bffa08ff7d"
+        },
+        {
+          "_type": "block",
+          "style": "normal",
+          "_key": "9912fdfe6fc5",
+          "markDefs": [
+            {
+              "_type": "link",
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60"
+            }
+          ],
+          "children": [
+            {
+              "_key": "c5d35d2145800",
+              "_type": "span",
+              "marks": [],
+              "text": "HYTE はの姉妹ブランドです。"
+            },
+            {
+              "_type": "span",
+              "marks": ["592ff2b18e60"],
+              "text": "アイバイパワー",
+              "_key": "c5d35d2145801"
+            },
+            {
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802",
+              "_type": "span"
+            }
+          ]
+        }
+      ],
+      "unused": {
+        "_type": "slug",
+        "current": "translated!tKhbWNM34Y1zEIF1"
+      },
+      "pl": [
+        {
+          "children": [
+            {
+              "_key": "35783d4835d30",
+              "_type": "span",
+              "marks": [],
+              "text": "O nas"
+            }
+          ],
+          "_type": "block",
+          "style": "h1",
+          "_key": "eaa08d69272b",
+          "markDefs": []
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "HYTE: Doświadcz zabawy.",
+              "_key": "d08bd54867930"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "98af1fd61d49"
+        },
+        {
+          "_key": "4095316e2176",
+          "markDefs": [],
+          "children": [
+            {
+              "text": "Play to serce i dusza innowacji w sprzęcie komputerowym — od wynoszenia wydajności na nowe wyżyny po dostarczanie nowych, ekscytujących wrażeń na ekranie. Ale te doświadczenia nie zdarzają się ot tak. TY sprawiasz, że się zdarzają. Dlaczego nie sprawić, by przygoda z budowaniem na PC była równie zabawna?",
+              "_key": "abe3fd5cfa3e0",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_key": "c1a9cfe0739a0",
+              "_type": "span",
+              "marks": [],
+              "text": "W HYTE przesuwamy granice, jeśli chodzi o wrażenia z korzystania z komputera. Naszym celem jest, aby nasze produkty były bezproblemowo interaktywne, w sposób, który zmieni sposób, w jaki patrzysz na budowanie, granie i wszystko, co robisz ze swoją technologią. Ale na tym nie poprzestajemy; Po co wymuszać określony styl \"gracza\" lub \"profesjonalisty\", gdy komputer jest tak potężny i wyjątkowy jak Ty? Dlatego jesteśmy zaangażowani w tworzenie produktów, które mają artystyczną formę i funkcję ekspercką, zawsze mając oko zarówno na początkujących budowniczych, jak i entuzjastów."
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "3f3dd17b14e7"
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Odtwarzanie nie powinno odbywać się tylko po naciśnięciu przycisku zasilania. W końcu podróż to połowa zabawy. Mamy nadzieję, że dołączysz do nas w naszej kolejnej przygodzie!",
+              "_key": "ad6500129d610"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "b8bffa08ff7d"
+        },
+        {
+          "_type": "block",
+          "style": "normal",
+          "_key": "9912fdfe6fc5",
+          "markDefs": [
+            {
+              "_type": "link",
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "HYTE jest siostrzaną marką ",
+              "_key": "c5d35d2145800"
+            },
+            {
+              "text": "iBUYPOWER",
+              "_key": "c5d35d2145801",
+              "_type": "span",
+              "marks": ["592ff2b18e60"]
+            },
+            {
+              "text": ".",
+              "_key": "c5d35d2145802",
+              "_type": "span",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "ko": [
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "우리에 관해서",
+              "_key": "35783d4835d30"
+            }
+          ],
+          "_type": "block",
+          "style": "h1",
+          "_key": "eaa08d69272b"
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "HYTE: 플레이를 경험해 보세요.",
+              "_key": "d08bd54867930"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "98af1fd61d49"
+        },
+        {
+          "style": "normal",
+          "_key": "4095316e2176",
+          "markDefs": [],
+          "children": [
+            {
+              "text": "Play는 새로운 차원의 성능 출시부터 화면에서 흥미진진하고 새로운 경험을 제공하는 것까지 PC 하드웨어 혁신의 핵심이자 영혼입니다. 그러나 그러한 경험은 저절로 이루어지는 것이 아닙니다. 당신은 그들을 실현시킵니다. PC 조립 모험을 재미있게 만들어 보는 것은 어떨까요?",
+              "_key": "abe3fd5cfa3e0",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "style": "normal",
+          "_key": "3f3dd17b14e7",
+          "markDefs": [],
+          "children": [
+            {
+              "text": "HYTE는 PC 경험의 한계를 뛰어 넘습니다. 우리의 목표는 우리 제품을 쉽게 상호 작용할 수 있도록 만드는 것이며, 이는 당신이 당신의 기술로 하는 모든 것을 보는 방식을 바꿀 것입니다. 그러나 우리는 거기서 멈추지 않습니다. PC가 당신만큼 강력하고 독특한데 왜 특정 \"게이머\" 또는 \"프로페셔널\" 스타일을 강요합니까? 그렇기 때문에 우리는 예술적 형태와 전문적인 기능을 갖춘 제품을 만들기 위해 최선을 다하고 있으며, 항상 처음 제작자와 애호가 모두를 주시하고 있습니다.",
+              "_key": "c1a9cfe0739a0",
+              "_type": "span",
+              "marks": []
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "children": [
+            {
+              "_key": "ad6500129d610",
+              "_type": "span",
+              "marks": [],
+              "text": "전원 버튼을 누른 후에만 플레이가 이루어져서는 안 됩니다. 결국, 여행은 재미의 절반입니다. 다음 모험에 함께 하시길 바랍니다!"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "b8bffa08ff7d",
+          "markDefs": []
+        },
+        {
+          "markDefs": [
+            {
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60",
+              "_type": "link"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "HYTE는 자매 브랜드입니다. ",
+              "_key": "c5d35d2145800"
+            },
+            {
+              "_type": "span",
+              "marks": ["592ff2b18e60"],
+              "text": "아이바이파워",
+              "_key": "c5d35d2145801"
+            },
+            {
+              "_type": "span",
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "9912fdfe6fc5"
+        }
+      ],
+      "it": [
+        {
+          "style": "h1",
+          "_key": "eaa08d69272b",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Chi Siamo",
+              "_key": "35783d4835d30"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "_key": "98af1fd61d49",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "HYTE: Esperienza di gioco.",
+              "_key": "d08bd54867930"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "style": "normal",
+          "_key": "4095316e2176",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Il gioco è il cuore e l'anima dell'innovazione hardware per PC, dal lancio di prestazioni a nuovi livelli fino alla presentazione di nuove entusiasmanti esperienze sullo schermo. Ma queste esperienze non accadono da sole. TU li fai accadere. Perché non rendere l'avventura di costruzione di PC altrettanto divertente?",
+              "_key": "abe3fd5cfa3e0"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "_key": "3f3dd17b14e7",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "In HYTE, ci spingiamo oltre quando si tratta della tua esperienza con il PC. Il nostro obiettivo è rendere i nostri prodotti interattivi senza sforzo, in modi che cambieranno il modo in cui guardi alla costruzione, ai giochi e a tutto ciò che fai con la tua tecnologia. Ma non ci fermiamo qui; perché forzare uno specifico stile \"giocatore\" o \"professionale\" quando il tuo PC è potente e unico come te? Ecco perché ci impegniamo a creare prodotti che abbiano forma artistica e funzione esperta, tenendo sempre d'occhio sia i costruttori principianti che gli appassionati.",
+              "_key": "c1a9cfe0739a0"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "style": "normal",
+          "_key": "b8bffa08ff7d",
+          "markDefs": [],
+          "children": [
+            {
+              "marks": [],
+              "text": "Il gioco non dovrebbe avvenire solo dopo aver premuto il pulsante di accensione. Dopo tutto, il viaggio è metà del divertimento. Speriamo che tu ti unisca a noi nella nostra prossima avventura!",
+              "_key": "ad6500129d610",
+              "_type": "span"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "HYTE è il marchio gemello di ",
+              "_key": "c5d35d2145800"
+            },
+            {
+              "_type": "span",
+              "marks": ["592ff2b18e60"],
+              "text": "iBUYPOWER",
+              "_key": "c5d35d2145801"
+            },
+            {
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802",
+              "_type": "span"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "9912fdfe6fc5",
+          "markDefs": [
+            {
+              "_type": "link",
+              "href": "https://www.ibuypower.com/",
+              "_key": "592ff2b18e60"
+            }
+          ]
+        }
+      ],
+      "zhCN": [
+        {
+          "_type": "block",
+          "style": "h1",
+          "_key": "eaa08d69272b",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "关于我们",
+              "_key": "35783d4835d30"
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "text": "HYTE：体验游戏。",
+              "_key": "d08bd54867930",
+              "_type": "span",
+              "marks": ["strong"]
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "98af1fd61d49",
+          "markDefs": []
+        },
+        {
+          "style": "normal",
+          "_key": "4095316e2176",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "游戏是 PC 硬件创新的核心和灵魂 - 从将性能提升到新的高度，再到在屏幕上提供令人兴奋的新体验。但这些经历不会随便发生。你让它们发生。为什么不让 PC 组装冒险同样有趣呢？",
+              "_key": "abe3fd5cfa3e0"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "在HYTE，我们挑战您的PC体验。我们的目标是使我们的产品毫不费力地具有交互性，从而改变您对建筑、游戏以及您使用技术所做的所有其他事情的看法。但我们并不止于此;当您的 PC 像您一样强大和独特时，为什么要强制使用特定的“游戏玩家”或“专业”风格？这就是为什么我们致力于创造具有艺术形式和专业功能的产品，始终关注首次建造者和爱好者。",
+              "_key": "c1a9cfe0739a0"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "3f3dd17b14e7"
+        },
+        {
+          "style": "normal",
+          "_key": "b8bffa08ff7d",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "播放不应该只在按下电源按钮后发生。毕竟，旅程是乐趣的一半。我们希望您加入我们的下一次冒险！",
+              "_key": "ad6500129d610"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "style": "normal",
+          "_key": "9912fdfe6fc5",
+          "markDefs": [
+            {
+              "_key": "592ff2b18e60",
+              "_type": "link",
+              "href": "https://www.ibuypower.com/"
+            }
+          ],
+          "children": [
+            {
+              "marks": [],
+              "text": "HYTE是其姊妹品牌",
+              "_key": "c5d35d2145800",
+              "_type": "span"
+            },
+            {
+              "_type": "span",
+              "marks": ["592ff2b18e60"],
+              "text": "爱力",
+              "_key": "c5d35d2145801"
+            },
+            {
+              "_type": "span",
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802"
+            }
+          ],
+          "_type": "block"
+        }
+      ],
+      "enGB": [
+        {
+          "_type": "block",
+          "style": "h1",
+          "_key": "eaa08d69272b",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "About Us",
+              "_key": "35783d4835d30"
+            }
+          ]
+        },
+        {
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": ["strong"],
+              "text": "HYTE: Experience Play.",
+              "_key": "d08bd54867930"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "98af1fd61d49"
+        },
+        {
+          "style": "normal",
+          "_key": "4095316e2176",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "Play is the heart and soul of PC hardware innovation—from launching performance to new heights to delivering exciting new experiences on screen. But those experiences don't just happen. YOU make them happen. Why not make the PC building adventure just as fun?",
+              "_key": "abe3fd5cfa3e0"
+            }
+          ],
+          "_type": "block"
+        },
+        {
+          "children": [
+            {
+              "_key": "c1a9cfe0739a0",
+              "_type": "span",
+              "marks": [],
+              "text": "At HYTE, we push the envelope when it comes to your PC experience. Our goal is to make our products effortlessly interactive, in ways that will change the way you look at building, gaming, and everything else you do with your tech. But we don't stop there; why force a specific \"gamer\" or \"professional\" style when your PC is as powerful and unique as you are? That's why we're committed to creating products that have artistic form and expert function, always keeping an eye out for first-time builders and enthusiasts alike."
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "3f3dd17b14e7",
+          "markDefs": []
+        },
+        {
+          "_key": "b8bffa08ff7d",
+          "markDefs": [],
+          "children": [
+            {
+              "marks": [],
+              "text": "Play shouldn't only happen once you press the power button. After all, the journey is half the fun. We hope you join us on our next adventure!",
+              "_key": "ad6500129d610",
+              "_type": "span"
+            }
+          ],
+          "_type": "block",
+          "style": "normal"
+        },
+        {
+          "markDefs": [
+            {
+              "_key": "592ff2b18e60",
+              "_type": "link",
+              "href": "https://www.ibuypower.com/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "marks": [],
+              "text": "HYTE is the sister brand of ",
+              "_key": "c5d35d2145800"
+            },
+            {
+              "marks": ["592ff2b18e60"],
+              "text": "iBUYPOWER",
+              "_key": "c5d35d2145801",
+              "_type": "span"
+            },
+            {
+              "marks": [],
+              "text": ".",
+              "_key": "c5d35d2145802",
+              "_type": "span"
+            }
+          ],
+          "_type": "block",
+          "style": "normal",
+          "_key": "9912fdfe6fc5"
+        }
+      ]
+    },
+    "contentV2": [
+      {
+        "locale": "es",
+        "_type": "internationalBlockContent",
+        "_key": "a553562463f9"
+      },
+      {
+        "_type": "internationalBlockContent",
+        "_key": "acfca03f951e",
+        "locale": "es"
+      },
+      {
+        "_key": "enUS",
+        "locale": "enUS",
+        "content": [
+          {
+            "_key": "eaa08d69272b",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "About Us",
+                "_key": "35783d4835d30"
+              }
+            ],
+            "_type": "block",
+            "style": "h1"
+          },
+          {
+            "_key": "98af1fd61d49",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "HYTE: Experience Play.",
+                "_key": "d08bd54867930"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Play is the heart and soul of PC hardware innovation—from launching performance to new heights to delivering exciting new experiences on screen. But those experiences don't just happen. YOU make them happen. Why not make the PC building adventure just as fun?",
+                "_key": "abe3fd5cfa3e0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "4095316e2176"
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "3f3dd17b14e7",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "At HYTE, we push the envelope when it comes to your PC experience. Our goal is to make our products effortlessly interactive, in ways that will change the way you look at building, gaming, and everything else you do with your tech. But we don't stop there; why force a specific \"gamer\" or \"professional\" style when your PC is as powerful and unique as you are? That's why we're committed to creating products that have artistic form and expert function, always keeping an eye out for first-time builders and enthusiasts alike.",
+                "_key": "c1a9cfe0739a0"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "marks": [],
+                "text": "Play shouldn't only happen once you press the power button. After all, the journey is half the fun. We hope you join us on our next adventure!",
+                "_key": "ad6500129d610",
+                "_type": "span"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "b8bffa08ff7d",
+            "markDefs": []
+          },
+          {
+            "markDefs": [
+              {
+                "_key": "592ff2b18e60",
+                "_type": "link",
+                "href": "https://www.ibuypower.com/"
+              }
+            ],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE is the sister brand of ",
+                "_key": "c5d35d2145800"
+              },
+              {
+                "text": "iBUYPOWER",
+                "_key": "c5d35d2145801",
+                "_type": "span",
+                "marks": ["592ff2b18e60"]
+              },
+              {
+                "_type": "span",
+                "marks": [],
+                "text": ".",
+                "_key": "c5d35d2145802"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "9912fdfe6fc5"
+          }
+        ]
+      },
+      {
+        "content": [
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "About Us",
+                "_key": "35783d4835d30"
+              }
+            ],
+            "_type": "block",
+            "style": "h1",
+            "_key": "eaa08d69272b"
+          },
+          {
+            "style": "normal",
+            "_key": "98af1fd61d49",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "HYTE: Experience Play.",
+                "_key": "d08bd54867930"
+              }
+            ],
+            "_type": "block"
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "4095316e2176",
+            "markDefs": [],
+            "children": [
+              {
+                "text": "Play is the heart and soul of PC hardware innovation—from launching performance to new heights to delivering exciting new experiences on screen. But those experiences don't just happen. YOU make them happen. Why not make the PC building adventure just as fun?",
+                "_key": "abe3fd5cfa3e0",
+                "_type": "span",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "3f3dd17b14e7",
+            "markDefs": [],
+            "children": [
+              {
+                "_key": "c1a9cfe0739a0",
+                "_type": "span",
+                "marks": [],
+                "text": "At HYTE, we push the envelope when it comes to your PC experience. Our goal is to make our products effortlessly interactive, in ways that will change the way you look at building, gaming, and everything else you do with your tech. But we don't stop there; why force a specific \"gamer\" or \"professional\" style when your PC is as powerful and unique as you are? That's why we're committed to creating products that have artistic form and expert function, always keeping an eye out for first-time builders and enthusiasts alike."
+              }
+            ]
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Play shouldn't only happen once you press the power button. After all, the journey is half the fun. We hope you join us on our next adventure!",
+                "_key": "ad6500129d610"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "b8bffa08ff7d"
+          },
+          {
+            "_key": "9912fdfe6fc5",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.ibuypower.com/",
+                "_key": "592ff2b18e60"
+              }
+            ],
+            "children": [
+              {
+                "_key": "c5d35d2145800",
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE is the sister brand of "
+              },
+              {
+                "marks": ["592ff2b18e60"],
+                "text": "iBUYPOWER",
+                "_key": "c5d35d2145801",
+                "_type": "span"
+              },
+              {
+                "_type": "span",
+                "marks": [],
+                "text": ".",
+                "_key": "c5d35d2145802"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          }
+        ],
+        "_key": "enGB",
+        "locale": "enGB"
+      },
+      {
+        "_key": "ja",
+        "locale": "ja",
+        "content": [
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "text": "我々について",
+                "_key": "35783d4835d30",
+                "_type": "span",
+                "marks": []
+              }
+            ],
+            "_type": "block",
+            "style": "h1",
+            "_key": "eaa08d69272b"
+          },
+          {
+            "_key": "98af1fd61d49",
+            "markDefs": [],
+            "children": [
+              {
+                "marks": ["strong"],
+                "text": "ハイト:プレイを体験してください。",
+                "_key": "d08bd54867930",
+                "_type": "span"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "_key": "4095316e2176",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "プレイは、パフォーマンスの新たな高みへの投入から、画面上でのエキサイティングな新しいエクスペリエンスの提供まで、PC ハードウェアの革新の中心です。しかし、それらの経験はただ起こるだけではありません。あなたはそれらを実現させます。PC構築の冒険を同じように楽しくしてみませんか?",
+                "_key": "abe3fd5cfa3e0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "3f3dd17b14e7",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "HYTEでは、PCエクスペリエンスに関して限界を押し広げています。私たちの目標は、製品を簡単にインタラクティブにし、構築、ゲーム、その他すべてのテクノロジーの見方を変えることです。しかし、それだけではありません。あなたのPCがあなたと同じくらい強力でユニークであるのに、なぜ特定の「ゲーマー」または「プロフェッショナル」スタイルを強制するのですか?だからこそ、私たちは芸術的な形と専門的な機能を備えた製品の作成に取り組んでおり、常に初めてのビルダーや愛好家にも目を光らせています。",
+                "_key": "c1a9cfe0739a0"
+              }
+            ]
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "再生は、電源ボタンを押した後にのみ行われるべきではありません。結局のところ、旅は半分の楽しみです。次の冒険にご参加ください!",
+                "_key": "ad6500129d610"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "b8bffa08ff7d"
+          },
+          {
+            "children": [
+              {
+                "_key": "c5d35d2145800",
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE はの姉妹ブランドです。"
+              },
+              {
+                "_type": "span",
+                "marks": ["592ff2b18e60"],
+                "text": "アイバイパワー",
+                "_key": "c5d35d2145801"
+              },
+              {
+                "_type": "span",
+                "marks": [],
+                "text": ".",
+                "_key": "c5d35d2145802"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "9912fdfe6fc5",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.ibuypower.com/",
+                "_key": "592ff2b18e60"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "locale": "es",
+        "content": [
+          {
+            "_type": "block",
+            "style": "h1",
+            "_key": "eaa08d69272b",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Sobre nosotros",
+                "_key": "35783d4835d30"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "HYTE: Experimenta el juego.",
+                "_key": "d08bd54867930"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "98af1fd61d49",
+            "markDefs": []
+          },
+          {
+            "style": "normal",
+            "_key": "4095316e2176",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "El juego es el corazón y el alma de la innovación del hardware de PC, desde el lanzamiento del rendimiento a nuevas alturas hasta la entrega de nuevas y emocionantes experiencias en la pantalla. Pero esas experiencias no suceden por sí solas. TÚ haces que sucedan. ¿Por qué no hacer que la aventura de construir PC sea igual de divertida?",
+                "_key": "abe3fd5cfa3e0"
+              }
+            ],
+            "_type": "block"
+          },
+          {
+            "_key": "3f3dd17b14e7",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "En HYTE, empujamos los límites cuando se trata de su experiencia de PC. Nuestro objetivo es hacer que nuestros productos sean interactivos sin esfuerzo, de manera que cambien la forma en que ve la construcción, los juegos y todo lo demás que hace con su tecnología. Pero no nos detenemos ahí; ¿Por qué forzar un estilo específico de \"jugador\" o \"profesional\" cuando su PC es tan potente y único como usted? Es por eso que estamos comprometidos a crear productos que tengan una forma artística y una función experta, siempre atentos a los constructores primerizos y entusiastas por igual.",
+                "_key": "c1a9cfe0739a0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "_key": "b8bffa08ff7d",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "El juego no solo debe ocurrir una vez que presionas el botón de encendido. Después de todo, el viaje es la mitad de la diversión. ¡Esperamos que te unas a nosotros en nuestra próxima aventura!",
+                "_key": "ad6500129d610"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "style": "normal",
+            "_key": "9912fdfe6fc5",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.ibuypower.com/",
+                "_key": "592ff2b18e60"
+              }
+            ],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE es la marca hermana de ",
+                "_key": "c5d35d2145800"
+              },
+              {
+                "_type": "span",
+                "marks": ["592ff2b18e60"],
+                "text": "iBUYPOWER",
+                "_key": "c5d35d2145801"
+              },
+              {
+                "_type": "span",
+                "marks": [],
+                "text": ".",
+                "_key": "c5d35d2145802"
+              }
+            ],
+            "_type": "block"
+          }
+        ],
+        "_key": "es"
+      },
+      {
+        "locale": "de",
+        "content": [
+          {
+            "style": "h1",
+            "_key": "eaa08d69272b",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Über uns",
+                "_key": "35783d4835d30"
+              }
+            ],
+            "_type": "block"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "HYTE: Erlebe das Spiel.",
+                "_key": "d08bd54867930"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "98af1fd61d49"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Spielen ist das Herz und die Seele der PC-Hardware-Innovation – von der Einführung neuer Leistungen bis hin zur Bereitstellung aufregender neuer Erlebnisse auf dem Bildschirm. Aber diese Erfahrungen passieren nicht einfach so. DU machst sie möglich. Warum sollte das PC-Bauabenteuer nicht genauso viel Spaß machen?",
+                "_key": "abe3fd5cfa3e0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "4095316e2176"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "marks": [],
+                "text": "Bei HYTE gehen wir an die Grenzen, wenn es um Ihr PC-Erlebnis geht. Unser Ziel ist es, unsere Produkte mühelos interaktiv zu gestalten, und zwar auf eine Weise, die die Art und Weise verändert, wie Sie das Bauen, Spielen und alles andere, was Sie mit Ihrer Technologie tun, betrachten. Aber das ist noch nicht alles. Warum sollte man einen bestimmten \"Gamer\"- oder \"professionellen\" Stil erzwingen, wenn Ihr PC so leistungsstark und einzigartig ist wie Sie? Aus diesem Grund sind wir bestrebt, Produkte zu entwickeln, die eine künstlerische Form und eine fachmännische Funktion haben, und haben dabei immer ein Auge auf Anfänger und Enthusiasten gleichermaßen.",
+                "_key": "c1a9cfe0739a0",
+                "_type": "span"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "3f3dd17b14e7"
+          },
+          {
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Das Spielen sollte nicht erst erfolgen, wenn Sie den Netzschalter drücken. Schließlich ist die Reise der halbe Spaß. Wir hoffen, dass du uns bei unserem nächsten Abenteuer begleitest!",
+                "_key": "ad6500129d610"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "b8bffa08ff7d",
+            "markDefs": []
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "9912fdfe6fc5",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.ibuypower.com/",
+                "_key": "592ff2b18e60"
+              }
+            ],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE ist die Schwestermarke von ",
+                "_key": "c5d35d2145800"
+              },
+              {
+                "_type": "span",
+                "marks": ["592ff2b18e60"],
+                "text": "iBUYPOWER",
+                "_key": "c5d35d2145801"
+              },
+              {
+                "_type": "span",
+                "marks": [],
+                "text": ".",
+                "_key": "c5d35d2145802"
+              }
+            ]
+          }
+        ],
+        "_key": "de"
+      },
+      {
+        "_key": "fr",
+        "locale": "fr",
+        "content": [
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Qui sommes-nous",
+                "_key": "35783d4835d30"
+              }
+            ],
+            "_type": "block",
+            "style": "h1",
+            "_key": "eaa08d69272b"
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "98af1fd61d49",
+            "markDefs": [],
+            "children": [
+              {
+                "marks": ["strong"],
+                "text": "HYTE : Faites l’expérience du jeu.",
+                "_key": "d08bd54867930",
+                "_type": "span"
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "4095316e2176",
+            "markDefs": [],
+            "children": [
+              {
+                "text": "Le jeu est le cœur et l’âme de l’innovation matérielle PC, du lancement des performances vers de nouveaux sommets à la fourniture de nouvelles expériences passionnantes à l’écran. Mais ces expériences ne se produisent pas par hasard. VOUS les réalisez. Pourquoi ne pas rendre l’aventure de construction de PC tout aussi amusante?",
+                "_key": "abe3fd5cfa3e0",
+                "_type": "span",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Chez HYTE, nous repoussons les limites de votre expérience PC. Notre objectif est de rendre nos produits interactifs sans effort, de manière à changer votre façon de voir la construction, les jeux et tout ce que vous faites avec votre technologie. Mais nous ne nous arrêtons pas là; Pourquoi imposer un style spécifique « joueur » ou « professionnel » alors que votre PC est aussi puissant et unique que vous ? C’est pourquoi nous nous engageons à créer des produits qui ont une forme artistique et une fonction experte, en gardant toujours un œil sur les constructeurs débutants et les passionnés.",
+                "_key": "c1a9cfe0739a0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "3f3dd17b14e7"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Le jeu ne devrait pas seulement se produire une fois que vous appuyez sur le bouton d’alimentation. Après tout, le voyage est la moitié du plaisir. Nous espérons que vous vous joindrez à nous pour notre prochaine aventure!",
+                "_key": "ad6500129d610"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "b8bffa08ff7d"
+          },
+          {
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE est la marque sœur de ",
+                "_key": "c5d35d2145800"
+              },
+              {
+                "_type": "span",
+                "marks": ["592ff2b18e60"],
+                "text": "iBUYPOWER",
+                "_key": "c5d35d2145801"
+              },
+              {
+                "_type": "span",
+                "marks": [],
+                "text": ".",
+                "_key": "c5d35d2145802"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "9912fdfe6fc5",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.ibuypower.com/",
+                "_key": "592ff2b18e60"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content": [
+          {
+            "_type": "block",
+            "style": "h1",
+            "_key": "eaa08d69272b",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "O nas",
+                "_key": "35783d4835d30"
+              }
+            ]
+          },
+          {
+            "children": [
+              {
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "HYTE: Doświadcz zabawy.",
+                "_key": "d08bd54867930"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "98af1fd61d49",
+            "markDefs": []
+          },
+          {
+            "_key": "4095316e2176",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Play to serce i dusza innowacji w sprzęcie komputerowym — od wynoszenia wydajności na nowe wyżyny po dostarczanie nowych, ekscytujących wrażeń na ekranie. Ale te doświadczenia nie zdarzają się ot tak. TY sprawiasz, że się zdarzają. Dlaczego nie sprawić, by przygoda z budowaniem na PC była równie zabawna?",
+                "_key": "abe3fd5cfa3e0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "W HYTE przesuwamy granice, jeśli chodzi o wrażenia z korzystania z komputera. Naszym celem jest, aby nasze produkty były bezproblemowo interaktywne, w sposób, który zmieni sposób, w jaki patrzysz na budowanie, granie i wszystko, co robisz ze swoją technologią. Ale na tym nie poprzestajemy; Po co wymuszać określony styl \"gracza\" lub \"profesjonalisty\", gdy komputer jest tak potężny i wyjątkowy jak Ty? Dlatego jesteśmy zaangażowani w tworzenie produktów, które mają artystyczną formę i funkcję ekspercką, zawsze mając oko zarówno na początkujących budowniczych, jak i entuzjastów.",
+                "_key": "c1a9cfe0739a0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "3f3dd17b14e7",
+            "markDefs": []
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Odtwarzanie nie powinno odbywać się tylko po naciśnięciu przycisku zasilania. W końcu podróż to połowa zabawy. Mamy nadzieję, że dołączysz do nas w naszej kolejnej przygodzie!",
+                "_key": "ad6500129d610"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "b8bffa08ff7d"
+          },
+          {
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.ibuypower.com/",
+                "_key": "592ff2b18e60"
+              }
+            ],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE jest siostrzaną marką ",
+                "_key": "c5d35d2145800"
+              },
+              {
+                "_key": "c5d35d2145801",
+                "_type": "span",
+                "marks": ["592ff2b18e60"],
+                "text": "iBUYPOWER"
+              },
+              {
+                "_type": "span",
+                "marks": [],
+                "text": ".",
+                "_key": "c5d35d2145802"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "9912fdfe6fc5"
+          }
+        ],
+        "_key": "pl",
+        "locale": "pl"
+      },
+      {
+        "_key": "it",
+        "locale": "it",
+        "content": [
+          {
+            "_type": "block",
+            "style": "h1",
+            "_key": "eaa08d69272b",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Chi Siamo",
+                "_key": "35783d4835d30"
+              }
+            ]
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "text": "HYTE: Esperienza di gioco.",
+                "_key": "d08bd54867930",
+                "_type": "span",
+                "marks": ["strong"]
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "98af1fd61d49"
+          },
+          {
+            "style": "normal",
+            "_key": "4095316e2176",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Il gioco è il cuore e l'anima dell'innovazione hardware per PC, dal lancio di prestazioni a nuovi livelli fino alla presentazione di nuove entusiasmanti esperienze sullo schermo. Ma queste esperienze non accadono da sole. TU li fai accadere. Perché non rendere l'avventura di costruzione di PC altrettanto divertente?",
+                "_key": "abe3fd5cfa3e0"
+              }
+            ],
+            "_type": "block"
+          },
+          {
+            "children": [
+              {
+                "text": "In HYTE, ci spingiamo oltre quando si tratta della tua esperienza con il PC. Il nostro obiettivo è rendere i nostri prodotti interattivi senza sforzo, in modi che cambieranno il modo in cui guardi alla costruzione, ai giochi e a tutto ciò che fai con la tua tecnologia. Ma non ci fermiamo qui; perché forzare uno specifico stile \"giocatore\" o \"professionale\" quando il tuo PC è potente e unico come te? Ecco perché ci impegniamo a creare prodotti che abbiano forma artistica e funzione esperta, tenendo sempre d'occhio sia i costruttori principianti che gli appassionati.",
+                "_key": "c1a9cfe0739a0",
+                "_type": "span",
+                "marks": []
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "3f3dd17b14e7",
+            "markDefs": []
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Il gioco non dovrebbe avvenire solo dopo aver premuto il pulsante di accensione. Dopo tutto, il viaggio è metà del divertimento. Speriamo che tu ti unisca a noi nella nostra prossima avventura!",
+                "_key": "ad6500129d610"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "b8bffa08ff7d"
+          },
+          {
+            "style": "normal",
+            "_key": "9912fdfe6fc5",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.ibuypower.com/",
+                "_key": "592ff2b18e60"
+              }
+            ],
+            "children": [
+              {
+                "marks": [],
+                "text": "HYTE è il marchio gemello di ",
+                "_key": "c5d35d2145800",
+                "_type": "span"
+              },
+              {
+                "marks": ["592ff2b18e60"],
+                "text": "iBUYPOWER",
+                "_key": "c5d35d2145801",
+                "_type": "span"
+              },
+              {
+                "_key": "c5d35d2145802",
+                "_type": "span",
+                "marks": [],
+                "text": "."
+              }
+            ],
+            "_type": "block"
+          }
+        ]
+      },
+      {
+        "_key": "nl",
+        "locale": "nl",
+        "content": [
+          {
+            "_key": "eaa08d69272b",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Informatie",
+                "_key": "35783d4835d30"
+              }
+            ],
+            "_type": "block",
+            "style": "h1"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "HYTE: Ervaar Play.",
+                "_key": "d08bd54867930"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "98af1fd61d49"
+          },
+          {
+            "style": "normal",
+            "_key": "4095316e2176",
+            "markDefs": [],
+            "children": [
+              {
+                "text": "Spelen is het hart en de ziel van pc-hardware-innovatie, van het lanceren van prestaties tot nieuwe hoogten tot het leveren van spannende nieuwe ervaringen op het scherm. Maar die ervaringen gebeuren niet zomaar. JIJ maakt ze waar. Waarom zou je het pc-bouwavontuur niet net zo leuk maken?",
+                "_key": "abe3fd5cfa3e0",
+                "_type": "span",
+                "marks": []
+              }
+            ],
+            "_type": "block"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_key": "c1a9cfe0739a0",
+                "_type": "span",
+                "marks": [],
+                "text": "Bij HYTE verleggen we de grenzen als het gaat om uw pc-ervaring. Ons doel is om onze producten moeiteloos interactief te maken, op manieren die de manier waarop u kijkt naar bouwen, gamen en al het andere dat u met uw technologie doet, zullen veranderen. Maar daar laten we het niet bij; waarom zou u een specifieke \"gamer\" of \"professionele\" stijl forceren als uw pc net zo krachtig en uniek is als u? Daarom zijn we toegewijd aan het creëren van producten met een artistieke vorm en een deskundige functie, waarbij we altijd een oogje in het zeil houden voor zowel beginnende bouwers als liefhebbers."
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "3f3dd17b14e7"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "marks": [],
+                "text": "Spelen zou niet alleen moeten gebeuren als je op de aan / uit-knop drukt. De reis is immers de helft van de pret. We hopen dat je met ons meegaat op ons volgende avontuur!",
+                "_key": "ad6500129d610",
+                "_type": "span"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "b8bffa08ff7d"
+          },
+          {
+            "style": "normal",
+            "_key": "9912fdfe6fc5",
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.ibuypower.com/",
+                "_key": "592ff2b18e60"
+              }
+            ],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE is het zustermerk van ",
+                "_key": "c5d35d2145800"
+              },
+              {
+                "_type": "span",
+                "marks": ["592ff2b18e60"],
+                "text": "iBUYPOWER",
+                "_key": "c5d35d2145801"
+              },
+              {
+                "_key": "c5d35d2145802",
+                "_type": "span",
+                "marks": [],
+                "text": "."
+              }
+            ],
+            "_type": "block"
+          }
+        ]
+      },
+      {
+        "locale": "ko",
+        "content": [
+          {
+            "_key": "eaa08d69272b",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "우리에 관해서",
+                "_key": "35783d4835d30"
+              }
+            ],
+            "_type": "block",
+            "style": "h1"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "text": "HYTE: 플레이를 경험해 보세요.",
+                "_key": "d08bd54867930",
+                "_type": "span",
+                "marks": ["strong"]
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "98af1fd61d49"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Play는 새로운 차원의 성능 출시부터 화면에서 흥미진진하고 새로운 경험을 제공하는 것까지 PC 하드웨어 혁신의 핵심이자 영혼입니다. 그러나 그러한 경험은 저절로 이루어지는 것이 아닙니다. 당신은 그들을 실현시킵니다. PC 조립 모험을 재미있게 만들어 보는 것은 어떨까요?",
+                "_key": "abe3fd5cfa3e0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "4095316e2176"
+          },
+          {
+            "_key": "3f3dd17b14e7",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE는 PC 경험의 한계를 뛰어 넘습니다. 우리의 목표는 우리 제품을 쉽게 상호 작용할 수 있도록 만드는 것이며, 이는 당신이 당신의 기술로 하는 모든 것을 보는 방식을 바꿀 것입니다. 그러나 우리는 거기서 멈추지 않습니다. PC가 당신만큼 강력하고 독특한데 왜 특정 \"게이머\" 또는 \"프로페셔널\" 스타일을 강요합니까? 그렇기 때문에 우리는 예술적 형태와 전문적인 기능을 갖춘 제품을 만들기 위해 최선을 다하고 있으며, 항상 처음 제작자와 애호가 모두를 주시하고 있습니다.",
+                "_key": "c1a9cfe0739a0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "_key": "b8bffa08ff7d",
+            "markDefs": [],
+            "children": [
+              {
+                "_key": "ad6500129d610",
+                "_type": "span",
+                "marks": [],
+                "text": "전원 버튼을 누른 후에만 플레이가 이루어져서는 안 됩니다. 결국, 여행은 재미의 절반입니다. 다음 모험에 함께 하시길 바랍니다!"
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "9912fdfe6fc5",
+            "markDefs": [
+              {
+                "_key": "592ff2b18e60",
+                "_type": "link",
+                "href": "https://www.ibuypower.com/"
+              }
+            ],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE는 자매 브랜드입니다. ",
+                "_key": "c5d35d2145800"
+              },
+              {
+                "_type": "span",
+                "marks": ["592ff2b18e60"],
+                "text": "아이바이파워",
+                "_key": "c5d35d2145801"
+              },
+              {
+                "_type": "span",
+                "marks": [],
+                "text": ".",
+                "_key": "c5d35d2145802"
+              }
+            ]
+          }
+        ],
+        "_key": "ko"
+      },
+      {
+        "_key": "zhTW",
+        "locale": "zhTW",
+        "content": [
+          {
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "About Us",
+                "_key": "35783d4835d30"
+              }
+            ],
+            "_type": "block",
+            "style": "h1",
+            "_key": "eaa08d69272b",
+            "markDefs": []
+          },
+          {
+            "style": "normal",
+            "_key": "98af1fd61d49",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "HYTE: Experience Play.",
+                "_key": "d08bd54867930"
+              }
+            ],
+            "_type": "block"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Play is the heart and soul of PC hardware innovation—from launching performance to new heights to delivering exciting new experiences on screen. But those experiences don't just happen. YOU make them happen. Why not make the PC building adventure just as fun?",
+                "_key": "abe3fd5cfa3e0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "4095316e2176"
+          },
+          {
+            "style": "normal",
+            "_key": "3f3dd17b14e7",
+            "markDefs": [],
+            "children": [
+              {
+                "text": "At HYTE, we push the envelope when it comes to your PC experience. Our goal is to make our products effortlessly interactive, in ways that will change the way you look at building, gaming, and everything else you do with your tech. But we don't stop there; why force a specific \"gamer\" or \"professional\" style when your PC is as powerful and unique as you are? That's why we're committed to creating products that have artistic form and expert function, always keeping an eye out for first-time builders and enthusiasts alike.",
+                "_key": "c1a9cfe0739a0",
+                "_type": "span",
+                "marks": []
+              }
+            ],
+            "_type": "block"
+          },
+          {
+            "_key": "b8bffa08ff7d",
+            "markDefs": [],
+            "children": [
+              {
+                "text": "Play shouldn't only happen once you press the power button. After all, the journey is half the fun. We hope you join us on our next adventure!",
+                "_key": "ad6500129d610",
+                "_type": "span",
+                "marks": []
+              }
+            ],
+            "_type": "block",
+            "style": "normal"
+          },
+          {
+            "style": "normal",
+            "_key": "9912fdfe6fc5",
+            "markDefs": [
+              {
+                "_key": "592ff2b18e60",
+                "_type": "link",
+                "href": "https://www.ibuypower.com/"
+              }
+            ],
+            "children": [
+              {
+                "marks": [],
+                "text": "HYTE is the sister brand of ",
+                "_key": "c5d35d2145800",
+                "_type": "span"
+              },
+              {
+                "_type": "span",
+                "marks": ["592ff2b18e60"],
+                "text": "iBUYPOWER",
+                "_key": "c5d35d2145801"
+              },
+              {
+                "_key": "c5d35d2145802",
+                "_type": "span",
+                "marks": [],
+                "text": "."
+              }
+            ],
+            "_type": "block"
+          }
+        ]
+      },
+      {
+        "_key": "zhCN",
+        "locale": "zhCN",
+        "content": [
+          {
+            "_key": "eaa08d69272b",
+            "markDefs": [],
+            "children": [
+              {
+                "marks": [],
+                "text": "About Us",
+                "_key": "35783d4835d30",
+                "_type": "span"
+              }
+            ],
+            "_type": "block",
+            "style": "h1"
+          },
+          {
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": ["strong"],
+                "text": "HYTE: Experience Play.",
+                "_key": "d08bd54867930"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "98af1fd61d49"
+          },
+          {
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Play is the heart and soul of PC hardware innovation—from launching performance to new heights to delivering exciting new experiences on screen. But those experiences don't just happen. YOU make them happen. Why not make the PC building adventure just as fun?",
+                "_key": "abe3fd5cfa3e0"
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "4095316e2176",
+            "markDefs": []
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "3f3dd17b14e7",
+            "markDefs": [],
+            "children": [
+              {
+                "_key": "c1a9cfe0739a0",
+                "_type": "span",
+                "marks": [],
+                "text": "At HYTE, we push the envelope when it comes to your PC experience. Our goal is to make our products effortlessly interactive, in ways that will change the way you look at building, gaming, and everything else you do with your tech. But we don't stop there; why force a specific \"gamer\" or \"professional\" style when your PC is as powerful and unique as you are? That's why we're committed to creating products that have artistic form and expert function, always keeping an eye out for first-time builders and enthusiasts alike."
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "style": "normal",
+            "_key": "b8bffa08ff7d",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "marks": [],
+                "text": "Play shouldn't only happen once you press the power button. After all, the journey is half the fun. We hope you join us on our next adventure!",
+                "_key": "ad6500129d610"
+              }
+            ]
+          },
+          {
+            "markDefs": [
+              {
+                "_type": "link",
+                "href": "https://www.ibuypower.com/",
+                "_key": "592ff2b18e60"
+              }
+            ],
+            "children": [
+              {
+                "_key": "c5d35d2145800",
+                "_type": "span",
+                "marks": [],
+                "text": "HYTE is the sister brand of "
+              },
+              {
+                "_type": "span",
+                "marks": ["592ff2b18e60"],
+                "text": "iBUYPOWER",
+                "_key": "c5d35d2145801"
+              },
+              {
+                "text": ".",
+                "_key": "c5d35d2145802",
+                "_type": "span",
+                "marks": []
+              }
+            ],
+            "_type": "block",
+            "style": "normal",
+            "_key": "9912fdfe6fc5"
+          }
+        ]
+      }
+    ]
+  }
+]

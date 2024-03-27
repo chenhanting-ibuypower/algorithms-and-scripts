@@ -1,0 +1,321 @@
+{
+  "requestPayload": {
+    "customer_id": 0,
+    "billing_address": {
+      "city": "LITITZ",
+      "country": "United States",
+      "country_iso2": "US",
+      "street_1": "120 N NEW ST",
+      "state": "PA",
+      "zip": "17543",
+      "first_name": "Nicholas",
+      "last_name": "Longenecker",
+      "email": "longeneckernick@gmail.com",
+      "phone": "2698830537"
+    },
+    "payment_method": "PayPal",
+    "total_ex_tax": 108.13,
+    "total_inc_tax": 114.43,
+    "discount_amount": 0,
+    "shipping_cost_ex_tax": 0,
+    "shipping_cost_inc_tax": 0,
+    "shipping_addresses": [
+      {
+        "city": "LITITZ",
+        "country": "United States",
+        "country_iso2": "US",
+        "street_1": "120 N NEW ST",
+        "state": "PA",
+        "zip": "17543",
+        "first_name": "Nicholas",
+        "last_name": "Longenecker",
+        "email": "longeneckernick@gmail.com",
+        "phone": "2698830537",
+        "shipping_method": "UPS® Ground"
+      }
+    ],
+    "products": [
+      {
+        "sku": "ACC-HYTE-P3R-KEYCAP",
+        "name": "ACC-HYTE-P3R-KEYCAP",
+        "quantity": 1,
+        "price_ex_tax": 74.99,
+        "price_inc_tax": 74.99
+      },
+      {
+        "sku": "MOU-HYTE-P3R-2",
+        "name": "MOU-HYTE-P3R-2",
+        "quantity": 1,
+        "price_ex_tax": 29.99,
+        "price_inc_tax": 29.99
+      },
+      {
+        "sku": "ACC-HYTE-P3R-SCROLL",
+        "name": "ACC-HYTE-P3R-SCROLL",
+        "quantity": 1,
+        "price_ex_tax": 0,
+        "price_inc_tax": 0
+      }
+    ]
+  },
+  "paypalTransaction": {
+    "id": "124899630U0207614",
+    "amount": {
+      "currency_code": "USD",
+      "value": "114.43"
+    },
+    "final_capture": true,
+    "seller_protection": {
+      "status": "ELIGIBLE",
+      "dispute_categories": ["ITEM_NOT_RECEIVED", "UNAUTHORIZED_TRANSACTION"]
+    },
+    "seller_receivable_breakdown": {
+      "gross_amount": {
+        "currency_code": "USD",
+        "value": "114.43"
+      },
+      "paypal_fee": {
+        "currency_code": "USD",
+        "value": "3.62"
+      },
+      "net_amount": {
+        "currency_code": "USD",
+        "value": "110.81"
+      }
+    },
+    "status": "COMPLETED",
+    "supplementary_data": {
+      "related_ids": {
+        "order_id": "2JM81303YM138253K"
+      }
+    },
+    "payee": {
+      "email_address": "accounts.receivable@ibuypower.com",
+      "merchant_id": "7YHDZ62G9BBAC"
+    },
+    "create_time": "2023-12-11T13:06:18Z",
+    "update_time": "2023-12-11T13:06:18Z",
+    "links": [
+      {
+        "href": "https://api.paypal.com/v2/payments/captures/124899630U0207614",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api.paypal.com/v2/payments/captures/124899630U0207614/refund",
+        "rel": "refund",
+        "method": "POST"
+      },
+      {
+        "href": "https://api.paypal.com/v2/checkout/orders/2JM81303YM138253K",
+        "rel": "up",
+        "method": "GET"
+      }
+    ]
+  },
+  "order": {
+    "id": "2JM81303YM138253K",
+    "intent": "CAPTURE",
+    "status": "COMPLETED",
+    "payment_source": {
+      "paypal": {
+        "email_address": "longeneckernick@gmail.com",
+        "account_id": "WC3YXGTFHZRS6",
+        "account_status": "UNVERIFIED",
+        "name": {
+          "given_name": "Nicholas",
+          "surname": "Longenecker"
+        },
+        "phone_number": {
+          "national_number": "2698830537"
+        },
+        "address": {
+          "country_code": "US"
+        }
+      }
+    },
+    "purchase_units": [
+      {
+        "reference_id": "default",
+        "amount": {
+          "currency_code": "USD",
+          "value": "114.43",
+          "breakdown": {
+            "item_total": {
+              "currency_code": "USD",
+              "value": "104.98"
+            },
+            "shipping": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "handling": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "tax_total": {
+              "currency_code": "USD",
+              "value": "6.30"
+            },
+            "insurance": {
+              "currency_code": "USD",
+              "value": "3.15"
+            },
+            "shipping_discount": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "discount": {
+              "currency_code": "USD",
+              "value": "0.00"
+            }
+          }
+        },
+        "payee": {
+          "email_address": "accounts.receivable@ibuypower.com",
+          "merchant_id": "7YHDZ62G9BBAC"
+        },
+        "description": "-, 17543, UPS® Ground, 00331e88-01a0-40d4-8605-a840641ffbc1",
+        "soft_descriptor": "PAYPAL *AMERICANFUT",
+        "items": [
+          {
+            "name": "ACC-HYTE-P3R-KEYCAP",
+            "unit_amount": {
+              "currency_code": "USD",
+              "value": "74.99"
+            },
+            "tax": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "quantity": "1"
+          },
+          {
+            "name": "MOU-HYTE-P3R-2",
+            "unit_amount": {
+              "currency_code": "USD",
+              "value": "29.99"
+            },
+            "tax": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "quantity": "1"
+          },
+          {
+            "name": "ACC-HYTE-P3R-SCROLL",
+            "unit_amount": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "tax": {
+              "currency_code": "USD",
+              "value": "0.00"
+            },
+            "quantity": "1"
+          }
+        ],
+        "shipping": {
+          "name": {
+            "full_name": "Nick Longenecker"
+          },
+          "address": {
+            "address_line_1": "120 N NEW ST",
+            "admin_area_2": "LITITZ",
+            "admin_area_1": "PA",
+            "postal_code": "17543",
+            "country_code": "US"
+          }
+        },
+        "payments": {
+          "captures": [
+            {
+              "id": "124899630U0207614",
+              "status": "COMPLETED",
+              "amount": {
+                "currency_code": "USD",
+                "value": "114.43"
+              },
+              "final_capture": true,
+              "seller_protection": {
+                "status": "ELIGIBLE",
+                "dispute_categories": [
+                  "ITEM_NOT_RECEIVED",
+                  "UNAUTHORIZED_TRANSACTION"
+                ]
+              },
+              "seller_receivable_breakdown": {
+                "gross_amount": {
+                  "currency_code": "USD",
+                  "value": "114.43"
+                },
+                "paypal_fee": {
+                  "currency_code": "USD",
+                  "value": "3.62"
+                },
+                "net_amount": {
+                  "currency_code": "USD",
+                  "value": "110.81"
+                }
+              },
+              "links": [
+                {
+                  "href": "https://api.paypal.com/v2/payments/captures/124899630U0207614",
+                  "rel": "self",
+                  "method": "GET"
+                },
+                {
+                  "href": "https://api.paypal.com/v2/payments/captures/124899630U0207614/refund",
+                  "rel": "refund",
+                  "method": "POST"
+                },
+                {
+                  "href": "https://api.paypal.com/v2/checkout/orders/2JM81303YM138253K",
+                  "rel": "up",
+                  "method": "GET"
+                }
+              ],
+              "create_time": "2023-12-11T13:06:18Z",
+              "update_time": "2023-12-11T13:06:18Z"
+            }
+          ]
+        }
+      }
+    ],
+    "payer": {
+      "name": {
+        "given_name": "Nicholas",
+        "surname": "Longenecker"
+      },
+      "email_address": "longeneckernick@gmail.com",
+      "payer_id": "WC3YXGTFHZRS6",
+      "phone": {
+        "phone_number": {
+          "national_number": "2698830537"
+        }
+      },
+      "address": {
+        "country_code": "US"
+      }
+    },
+    "update_time": "2023-12-11T13:06:18Z",
+    "links": [
+      {
+        "href": "https://api.paypal.com/v2/checkout/orders/2JM81303YM138253K",
+        "rel": "self",
+        "method": "GET"
+      }
+    ]
+  },
+  "taxRule": {
+    "ShortState": "PA",
+    "Cities": ["LITITZ"],
+    "CityCode": 0,
+    "TaxList": [],
+    "Success": true,
+    "Tax": 0.06,
+    "OriginalTax": 0
+  },
+  "refunded": false,
+  "transactionId": "124899630U0207614"
+}
