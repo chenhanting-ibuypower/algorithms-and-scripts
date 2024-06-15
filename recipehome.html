@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Downshiftology</title>
+    <link rel="stylesheet" href="recipehome.css" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="logo">
+        <h1>DOWNSHIFT<em>OLOGY</em> with Lisa Bryan</h1>
+      </div>
+      <nav class="navigation">
+        <ul class="desktop-menu">
+          <li><a href="#">RECIPES</a></li>
+          <li><a href="#">COOKBOOK</a></li>
+          <li><a href="#">SHOP</a></li>
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">ABOUT</a></li>
+          <li><a href="#">TRAVEL</a></li>
+          <li><a href="#">LIFESTYLE</a></li>
+        </ul>
+        <button class="menu-toggle" aria-label="Open menu">☰</button>
+        <div class="overlay">
+          <button class="menu-close" aria-label="Close menu">✖</button>
+          <ul>
+            <li><a href="#">RECIPES</a></li>
+            <li><a href="#">COOKBOOK</a></li>
+            <li><a href="#">SHOP</a></li>
+            <li><a href="#">HOME</a></li>
+            <li><a href="#">ABOUT</a></li>
+            <li><a href="#">TRAVEL</a></li>
+            <li><a href="#">LIFESTYLE</a></li>
+          </ul>
+        </div>
+      </nav>
+    </header>
+    <div class="search">
+      <input type="text" placeholder="What can we help you find?" />
+      <button type="submit">🔍</button>
+    </div>
+    <div class="subscribe">
+      <a href="#">SIGN UP FOR FREE WEEKLY RECIPES →</a>
+    </div>
+    <main class="main-content">
+      <section class="featured-recipe">
+        <img src="image.png" alt="French Carrot Salad" />
+        <div class="recipe-details">
+          <p>June 10, 2024</p>
+          <h2>French Carrot Salad</h2>
+          <p>
+            This bistro-style French carrot salad is a simple, yet elegant
+            combination of crisp julienned carrots, green onion, and fresh
+            herbs, tossed in a bright honey...
+          </p>
+        </div>
+      </section>
+      <section class="latest-recipes">
+        <h2>Latest Recipes</h2>
+        <!-- Add latest recipe cards here -->
+      </section>
+    </main>
+    <script>
+      document
+        .querySelector(".menu-toggle")
+        .addEventListener("click", function () {
+          document.querySelector(".overlay").classList.add("open");
+        });
+      document
+        .querySelector(".menu-close")
+        .addEventListener("click", function () {
+          document.querySelector(".overlay").classList.remove("open");
+        });
+    </script>
+  </body>
+</html>
