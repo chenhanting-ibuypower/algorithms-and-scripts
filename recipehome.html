@@ -13,13 +13,70 @@
       </div>
       <nav class="navigation">
         <ul class="desktop-menu">
-          <li><a href="#">RECIPES</a></li>
+          <li class="dropdown">
+            <a href="#">RECIPES</a>
+            <ul class="submenu">
+              <li><a href="#">Browse All Recipes</a></li>
+              <li><a href="#">Recipe Index</a></li>
+              <li class="dropdown-submenu">
+                <a href="#"
+                  ><span class="menu-item">Recipes by Course</span>
+                  <span class="toggle-sign">+</span></a
+                >
+                <ul class="inner-submenu">
+                  <li><a href="#">Breakfast</a></li>
+                  <li><a href="#">Lunch</a></li>
+                  <li><a href="#">Dinner</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu">
+                <a href="#"
+                  ><span class="menu-item">Recipes by Ingredient</span>
+                  <span class="toggle-sign">+</span></a
+                >
+                <ul class="inner-submenu">
+                  <li><a href="#">Chicken</a></li>
+                  <li><a href="#">Beef</a></li>
+                  <li><a href="#">Vegetarian</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu">
+                <a href="#"
+                  ><span class="menu-item">Recipes by Method</span>
+                  <span class="toggle-sign">+</span></a
+                >
+                <ul class="inner-submenu">
+                  <li><a href="#">Baking</a></li>
+                  <li><a href="#">Grilling</a></li>
+                  <li><a href="#">Slow Cooker</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu">
+                <a href="#"
+                  ><span class="menu-item">Recipes by Diet</span>
+                  <span class="toggle-sign">+</span></a
+                >
+                <ul class="inner-submenu">
+                  <li><a href="#">Gluten-Free</a></li>
+                  <li><a href="#">Keto</a></li>
+                  <li><a href="#">Vegan</a></li>
+                </ul>
+              </li>
+              <li class="dropdown-submenu">
+                <a href="#"
+                  ><span class="menu-item">Recipes by Holiday</span>
+                  <span class="toggle-sign">+</span></a
+                >
+                <ul class="inner-submenu">
+                  <li><a href="#">Christmas</a></li>
+                  <li><a href="#">Thanksgiving</a></li>
+                  <li><a href="#">Easter</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
           <li><a href="#">COOKBOOK</a></li>
           <li><a href="#">SHOP</a></li>
-          <li><a href="#">HOME</a></li>
-          <li><a href="#">ABOUT</a></li>
-          <li><a href="#">TRAVEL</a></li>
-          <li><a href="#">LIFESTYLE</a></li>
         </ul>
         <button class="menu-toggle" aria-label="Open menu">☰</button>
         <div class="overlay">
@@ -45,7 +102,7 @@
     </div>
     <main class="main-content">
       <section class="featured-recipe">
-        <img src="image.png" alt="French Carrot Salad" />
+        <img src="./recipecover.webp" alt="French Carrot Salad" />
         <div class="recipe-details">
           <p>June 10, 2024</p>
           <h2>French Carrot Salad</h2>
@@ -72,6 +129,26 @@
         .addEventListener("click", function () {
           document.querySelector(".overlay").classList.remove("open");
         });
+
+      // Dropdown menu functionality for desktop
+      document.querySelectorAll(".dropdown > a").forEach((item) => {
+        item.addEventListener("click", function (e) {
+          e.preventDefault();
+          const submenu = this.nextElementSibling;
+          submenu.classList.toggle("open");
+        });
+      });
+
+      // Toggle plus and minus signs for submenus
+      document.querySelectorAll(".dropdown-submenu > a").forEach((item) => {
+        item.addEventListener("click", function (e) {
+          e.preventDefault();
+          const innerSubmenu = this.nextElementSibling;
+          innerSubmenu.classList.toggle("open");
+          const toggleSign = this.querySelector(".toggle-sign");
+          toggleSign.textContent = toggleSign.textContent === "+" ? "-" : "+";
+        });
+      });
     </script>
   </body>
 </html>

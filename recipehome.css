@@ -1,204 +1,274 @@
 /* General Styles */
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #fff;
-    padding: 10px 20px;
-    border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  padding: 10px 20px;
+  border-bottom: 1px solid #ddd;
 }
 
 .logo h1 {
-    margin: 0;
-    font-size: 24px;
-    font-weight: normal;
+  margin: 0;
+  font-size: 24px;
+  font-weight: normal;
 }
 
 .logo em {
-    font-style: italic;
+  font-style: italic;
 }
 
 .navigation {
-    position: relative;
+  position: relative;
 }
 
 .desktop-menu {
-    display: flex;
-    list-style: none;
-    margin: 0;
-    padding: 0;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .desktop-menu li {
-    margin-left: 20px;
+  position: relative;
+  margin-left: 20px;
 }
 
 .desktop-menu a {
-    text-decoration: none;
-    color: #000;
-    font-size: 16px;
+  text-decoration: none;
+  color: #000;
+  font-size: 16px;
 }
 
 .menu-toggle {
-    display: none;
-    background: none;
-    border: none;
-    font-size: 24px;
-    cursor: pointer;
+  display: none;
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
 }
 
 .overlay {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(255, 255, 255, 0.95);
-    z-index: 1000;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.95);
+  z-index: 1000;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .overlay.open {
-    display: flex;
+  display: flex;
 }
 
 .overlay ul {
-    flex-direction: column;
-    align-items: center;
-    list-style: none;
-    padding: 0;
-    margin: 0;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 .overlay li {
-    margin: 20px 0;
+  margin: 20px 0;
 }
 
 .overlay a {
-    font-size: 24px;
-    text-decoration: none;
-    color: #000;
+  font-size: 24px;
+  text-decoration: none;
+  color: #000;
 }
 
 .menu-close {
-    background: none;
-    border: none;
-    font-size: 24px;
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    cursor: pointer;
+  background: none;
+  border: none;
+  font-size: 24px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
 }
 
 .search {
-    display: flex;
-    justify-content: center;
-    padding: 10px;
-    background-color: #f8f8f8;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: #f8f8f8;
 }
 
 .search input {
-    width: 80%;
-    padding: 10px;
-    border: 1px solid #ddd;
-    border-radius: 4px 0 0 4px;
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px 0 0 4px;
 }
 
 .search button {
-    padding: 10px;
-    border: 1px solid #ddd;
-    background-color: #fff;
-    border-radius: 0 4px 4px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  border-radius: 0 4px 4px 0;
 }
 
 .subscribe {
-    text-align: center;
-    padding: 10px;
-    background-color: #f0f0f0;
+  text-align: center;
+  padding: 10px;
+  background-color: #f0f0f0;
 }
 
 .subscribe a {
-    text-decoration: none;
-    color: #000;
-    font-weight: bold;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
 }
 
 .main-content {
-    padding: 20px;
-    max-width: 1000px;
-    margin: 0 auto;
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .featured-recipe {
-    position: relative;
-    margin-bottom: 20px;
+  position: relative;
+  margin-bottom: 20px;
 }
 
 .featured-recipe img {
-    width: 100%;
-    border-radius: 8px;
+  width: 100%;
+  border-radius: 8px;
 }
 
 .recipe-details {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background: rgba(255, 255, 255, 0.9);
-    padding: 20px;
-    border-radius: 8px;
-    text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
 }
 
 .recipe-details p {
-    margin: 0;
-    color: #777;
+  margin: 0;
+  color: #777;
 }
 
 .recipe-details h2 {
-    margin: 10px 0;
-    color: #333;
+  margin: 10px 0;
+  color: #333;
 }
 
 .latest-recipes {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .latest-recipes h2 {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
+}
+
+/* Dropdown Styles */
+.dropdown .submenu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  z-index: 2;
+  min-width: 200px;
+}
+
+.dropdown .submenu a {
+  color: #fff;
+  display: block;
+  margin: 5px 0;
+}
+
+.dropdown .submenu.open {
+  display: block;
+}
+
+.dropdown .submenu ul,
+nav ul li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.dropdown .submenu ul li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  position: relative;
+}
+
+.dropdown .submenu .menu-item {
+  display: inline-block;
+}
+
+.dropdown .submenu .toggle-sign {
+  position: absolute;
+  right: 10px; /* Adjust as necessary */
+}
+
+.dropdown-submenu .inner-submenu {
+  display: none;
+  margin-left: 20px;
+  padding-left: 20px; /* Indent sub-menu items */
+  border: none; /* Remove border for sub-menu */
+}
+
+.dropdown-submenu .inner-submenu a {
+  color: #fff;
+  padding-left: 10px;
+}
+
+.dropdown-submenu .inner-submenu.open {
+  display: block;
+}
+
+.toggle-sign {
+  margin-left: 10px;
+  font-size: 12px;
+  color: #fff;
 }
 
 /* Media Queries for Responsive Design */
 @media (max-width: 768px) {
-    .desktop-menu {
-        display: none;
-    }
+  .desktop-menu {
+    display: none;
+  }
 
-    .menu-toggle {
-        display: block;
-    }
+  .menu-toggle {
+    display: block;
+  }
 
-    .overlay ul {
-        flex-direction: column;
-        align-items: center;
-    }
+  .overlay ul {
+    flex-direction: column;
+    align-items: center;
+  }
 
-    .featured-recipe {
-        flex-direction: column;
-    }
+  .featured-recipe {
+    flex-direction: column;
+  }
 
-    .featured-recipe img {
-        margin-right: 0;
-        margin-bottom: 20px;
-    }
+  .featured-recipe img {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
 }
